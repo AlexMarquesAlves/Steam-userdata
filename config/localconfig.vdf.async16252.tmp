@@ -1,0 +1,723 @@
+"UserLocalConfigStore"
+{
+	"Broadcast"
+	{
+		"Permissions"		"1"
+	}
+	"ParentalSettings"
+	{
+		"settings"		"09756b95330000000010001a0f416c6c6f7720616c6c2067616d657330063a080a9cc779d4caecc64220964d633875f7386da044f3114ad50ae04affa1992cb45e570b881572d9a910ca4800508e305a19616b697261746f7279616d6130303140676d61696c2e636f6d"
+		"Signature"		"a77496f645e4a4770c4dc932266dea84d43caa673b4c4591e322725e7b88472eade1ee2b5f69e836dd4e16cdf365b40ee88e9ec122b769edc19acf90c92ddb675919c99dcdb5a7c72bf1e1bc23ebaa4087ac64770af5cad400f081874fc18342718662bb09b1dcade49d273a6f7f30321db82bca7aaa9eea204e5f70be9280ddfce4df0765459ece25c8c8a7078a9038ed02ecb0dabe391c49a3e58b94d4fdb16092f00661b180b623dd0ac75ea3dfefeeb11627fab4922e855823dd13fdde569d38449c6ff29519b9826a44029b6f08286aeb4da433920fcfc82475ef4127dc5808925b289e068ccc95a7a565259f4641050e2e1535251cba5d6edbcb8cbf8f"
+	}
+	"streaming_v2"
+	{
+		"EnableStreaming"		"1"
+		"DefaultAudioDevice"		"{0.0.0.00000000}.{8caccfc3-b184-45d0-8a81-4a02c2a56513}"
+		"DefaultAudioDeviceName"		"Alto-falantes (Realtek High Definition Audio)"
+		"DefaultMicrophone"		"{0.0.1.00000000}.{54dbf408-39a9-40bc-bd3e-1966de2adde4}"
+		"DefaultMicrophoneName"		"Microfone (Realtek High Definition Audio)"
+		"P2PScopeV2"		"0"
+	}
+	"friends"
+	{
+		"865430389"
+		{
+			"NameHistory"
+			{
+				"0"		"¡Duque"
+			}
+			"avatar"		"56fc4afa98e8401f135e68942ccb4dc864e68e8a"
+			"name"		"¡Duque"
+		}
+		"PersonaName"		"¡Duque"
+		"communitypreferences"		"080110011884d6fef7052001280130013800"
+		"1111077692"
+		{
+			"name"		"taynahnunes833"
+			"NameHistory"
+			{
+				"0"		"taynahnunes833"
+			}
+			"avatar"		"d081e0324e64f74a7a5e81655285724b6f669038"
+		}
+		"103582791433474091"
+		{
+			"name"		"The Witcher: Enhanced Edition"
+			"avatar"		"746d1cd48fb2e57d579b05b6e9eccba95859e549"
+		}
+		"103582791471143580"
+		{
+			"name"		"MultiVersus"
+			"avatar"		"b99e0727d4b37c022f33f8f72fada74c5108aac0"
+		}
+		"103582791440827058"
+		{
+			"name"		"Rise of the Tomb Raider"
+			"avatar"		"0b8a37f32ed2b7c934be8aa94d53f71e274c6497"
+		}
+		"103582791470526475"
+		{
+			"name"		"ELDEN RING"
+			"avatar"		"b6e290dd5a92ce98f89089a207733c70c41a1871"
+		}
+		"881679078"
+		{
+			"name"		"enzoalvessud10"
+			"NameHistory"
+			{
+				"0"		"enzoalvessud10"
+			}
+		}
+		"95644369"
+		{
+			"name"		"Maki Youtuber"
+			"NameHistory"
+			{
+				"0"		"Maki Youtuber"
+			}
+			"avatar"		"235e6e10cd66af9a6c42020f8053cf3a32508522"
+		}
+		"208775111"
+		{
+			"name"		"Nerd Genérico"
+			"NameHistory"
+			{
+				"0"		"Nerd Genérico"
+			}
+			"avatar"		"7f42e9b8ba9a17fd18440bde99c3a168538e0207"
+		}
+		"844032332"
+		{
+			"name"		"M O R O H A!"
+			"NameHistory"
+			{
+				"0"		"M O R O H A!"
+			}
+			"avatar"		"07d911da4fd779f8fe7c638f85e8a485c99b427b"
+		}
+		"103582791458100078"
+		{
+			"name"		"Moonlighter"
+			"avatar"		"13ffc570ce5bbe6a5a0c0eec567b87dab07cae25"
+		}
+		"1089047435"
+		{
+			"name"		"Alex Alves"
+			"NameHistory"
+			{
+				"0"		"Alex Alves"
+			}
+		}
+	}
+	"Offline"
+	{
+		"Ticket"		"08f5d6d59c0315e735cc63"
+		"Signature"		"8ee4b7d64b7af412f0241c9909ee162e3cd0b8a0b7d2169c09a8c0c7883a4d5a19dee867d812d68c6bac93536726a4206043fdfbedcb4af8579849783627baf534cb5cabe7a51028490edc62b9bf63000f2256739ab9bf1ac2b5285a7762148596873d3fb11064755e223bce658fece80f181904618e629216fdcc2f053b08fec8db32fe267e8d2ac1811b7e9903fa40a218afe174f23eb55ada348cb71a278f1c67deebe584e52ec1f7b5156ce7e9e4d504da276bfc2e3de188b8f57bd09fcd3834dbbeec14325042f888c0b2f70ce18e92918410a314d6e7b94da7ae9e59444e37e4c714a56f35beff08b6868b57ef25301108571d6a063556d24817df3304"
+	}
+	"SharedAuth"
+	{
+		"id"		"270393826"
+		"AuthData"		"5b38d67104642705a05f1115d57c62e771de4be406caad1533c40ee14f530504"
+	}
+	"apptickets"
+	{
+		"7"		"3200000004000000756b95330100100107000000825e47b101d01fac00000000e735cc6367e5e7630100000000000000000002eef968de02257256e92430a1772aa4e00d10e53ed39d69df511fff211acef657abc609d0fcaa53b8a10d32d3ba0cd3ceacd679553311db9275116d7fae627a37a61f7c78f116253cd8ffa79efab6268ba964efced5ae2975f485fb6cf4dce683325b729c60c5d26a3b324c44a5e10c7f2cbdb9ef3db4e4bab13d3904080c77"
+		"606150"		"3800000004000000756b953301001001c63f0900825e47b101d01fac000000002912cc63a9c1e7630100f770020001002c1d1100000000000ffc8e1dee0f59318dcecd39ca1cb2af6a9e02f5d0d5ac8df5e43cfd9e3b041874a319e4423dd3094b9afb0aac1ab680c7d3f233f227fdceed8b84e652e9df3cc1c605f24ce3ec361c3ae7586d0e0690b2606ee4342497c5e7f144db173f4cb489a2bb433f4b1cd35a588513079ea7889870173643bf79f8f21c728cf8e0d346"
+		"413150"		"3200000004000000756b953301001001de4d0600825e47b101d01fac000000002912cc63a9c1e763010018430100000000007aa0fe49531fdd1ec78a7595b6004998e55722ca1d9c6c2429088f0c5f0d86c8471d7ba48c9acc6cb8c840a8b84aae973923d5a070e4b7baadc43009c5120169c42118517101321730211152a8e32bb2e60787d2b4190cb9883bab56f31518cc449a63f0a49504a1fc45fd754cf617206f01330c8cbc0fbefb3af7cbafe9f52e"
+		"228980"		"3200000004000000756b953301001001747e0300825e47b101d01fac000000002912cc63a9c1e76301000000000000000000d43f2338fae2f1225b070e96153b4a865fc086a4421b811ac41fd8d476a1557b7682c92c948663245b48dc436b4aeb351fe5c9d2e1ba61b27f41f7fe37ff354fdb83bac7d7c5bd46be201af65f3eca2a2fb24f433740d59c72fbbf42f57d8e0900e904dab1348ba7a7a91c5870cd67f594276a5121f3f69cb5fb61b260466515"
+		"1121580"		"3200000004000000756b9533010010012c1d1100825e47b101d01fac000000002912cc63a9c1e76301000bcd05000000000010c3d241f158f8cb0f4beb5f030cea7cb6d066ae261d84e9d923de5ace4596bf2c055072592bd14d2c9c9ad91f0f54af4ab3b61d098f1099c414a0adb306edd2f5a9a31ee8c85f47e0886358fb181fc6d6fd4cb8aa25b23585425b6c4a2e6e7ec5d94f11609129b7d543bf72d1cfcbc74565d7b994c522b8d51f4e2db67c3cc0"
+		"1118310"		"a601000004000000756b95330100100166101100825e47b10b12a8c000000000efdabf636f8adb6301009ac705003e005264120000004c6512000000e6a712000000e7a712000000e8a712000000e9a712000000eaa712000000eba712000000eca712000000eda712000000eea712000000b0ba12000000b1ba12000000b2ba12000000b3ba12000000b4ba12000000b8ba12000000b9ba12000000baba12000000bcba12000000bdba12000000beba12000000bfba12000000c0ba12000000c1ba12000000c2ba12000000c3ba12000000c4ba12000000c5ba12000000c6ba12000000c7ba12000000c9ba12000000caba12000000cbba12000000ccba12000000cdba12000000d9ba12000000daba12000000dcba12000000ddba12000000edce12000000eece12000000aed51200000034e612000000f4e51b000000eeeb1b0000009a211c000000cc211c00000086261c000000c2261c000000e2a11c00000030121d0000004c4a1e00000066941e000000ac941e000000eca41e00000008ac1e00000009ac1e0000007c781f000000c0891f000000e41722000000fe482200000000006961058fb29c6493143e717d6f7c54c067b034298e6747b0f65560602afbd4936bb2cf2fc35f395ea7e476d7a48640acd34ba69639f5e8af1e70133407833956eb247ca16a4c224ce53a812e68afa7b956a8207f17e19ef82235e95ab20e06eb1a48fdeda48dcde8a69daa1c1c0dd1d1d7c3368909d4d8ca355e736990bf8a3f"
+		"1205330"		"3200000004000000756b95330100100152641200825e47b101d01fac000000002912cc63a9c1e76301009ac70500000000009e0821cf8a984bd9271e85bba12a5da7d0257e0c48f0c628bbf24573f230e02a01327e1d7db2285beced566ce42a5b2b6671ad079e7d0250e488dd5c5f36c84aefc1629c52855edc172b8d7423d7b61f197abf65d0d9bca3e4bf4a6b7c80f421d04d89050f790626647877e9423131a2d41a7a9940f664ca151fff2f39bf6dff"
+		"1205580"		"3200000004000000756b9533010010014c651200825e47b101d01fac000000002912cc63a9c1e76301009ac7050000000000951fca96c6e5f063698817a41c4aee5f8dd403e8a907223d7eebfcc466a9a2ace586877b7d2b7de908d7d9e6c434f4bae56a8f36244162e3fc72ba97e4bbbf864cfb605a4dfd25e622b4710ee685125287040bd3f4e00811a2e9258b51e34559939062f7f2fd871d5bc5d3a6e5057cae2f7042fbd9d458f3958f0ee6fc590e6a"
+		"1222630"		"3200000004000000756b953301001001e6a71200825e47b101d01fac000000002912cc63a9c1e76301009ac7050000000000bf0629d4e7a0bb0a125dd5738ee4c86766df023e44430f8a3dabd862141ecf9690509c4a5156adc8f74193a7d0f19da910e47072b41e1ca98dd16494493d9bc3a50b2bb515fdf1ca6ccb28fa60c0fbc4296451a758ab8cc97e5af23488cc1b9b58be82780eba2a9bb1a15e244f18e70312484fd42e6ccc27cefe7b13febd0816"
+		"1222631"		"3200000004000000756b953301001001e7a71200825e47b101d01fac000000002912cc63a9c1e76301009ac705000000000020ef4fcd4560485e9fe25292d95ca08a814cbd92cf51db278bb64e99e93203019d0227942c2a349253e9bb29abc808605580e886b1c7349bfb30164e43704b50299f7540d2cb7f2a141cfb17aad4b5e3f054fb5f16a4d837358e8d3652f0db1a2b1ec3248348e4dc5c9764a53d40e7260c20bb20d2176e12fac27a54ef9728ac"
+		"1222632"		"3200000004000000756b953301001001e8a71200825e47b101d01fac000000002912cc63a9c1e76301009ac7050000000000327f558c4a578686630dcfaf8f6eae116c211fb015095c29d2b35b2d70fa5adbec3806f10fe7167e71a01ea9c9dc1f91d384f8ac5d6ad582664e0c5b0835ff77f3c39e0dab4f929cf1d9da44d87ec82598cf01b58f0ab699354cda19837dfe3e0f059fa67e87acfbd5f948e207762762016971cf92a026153ae895cd287d96b7"
+		"1222633"		"3200000004000000756b953301001001e9a71200825e47b101d01fac000000002912cc63a9c1e76301009ac70500000000005b14bc87a9614d14f0779523ca8854db9226ee7cca0946fc59396fd342e44d5c9d7debb896ec904add53270fca51b274bcc076eeca5a3c8be4192a4a3d262e4c539bf0a856e8344c93a19e36670d1c6cb93e4d44500ea80d8243bdd8a0fd981610916de6af2795f00fc99332739777c6752a715aadbc385e50e2c995f071143e"
+		"1222634"		"3200000004000000756b953301001001eaa71200825e47b101d01fac000000002912cc63a9c1e76301009ac70500000000007df7e7940e74b4a0aaa2040d048294997405e2fcbeef25b18b3951f4291dd20e04008c6e113245011e76b83c4fdeb9ac8992ed4d7a7da3a28d651a0aa27463277a640c88946c7d1ca1f9e9d524191776a76204d807bbf18676848a45abc8bea4538c29fb92151163881fdee3d83a859264835ae9833092ea2b6a022c8a603b36"
+		"1222635"		"3200000004000000756b953301001001eba71200825e47b101d01fac000000002a12cc63aac1e76301009ac70500000000006f82c82bef358224a1fdf63b3a331aa4beba2d2998cc28bd7f5766db1338366af1c0a21d84ca10e135b99196204bc41ed8e15b83b00a1541e91a56a0db203febda337d786d674e4d35a1575ede6473d9de32045a75bb934d077e14f4a4e389ede1b1e4f2e297642af8ed5b04df122189a44b2314aa929ceff72dbe8cc668f354"
+		"1222638"		"3200000004000000756b953301001001eea71200825e47b101d01fac000000002a12cc63aac1e76301009ac7050000000000b855c6b9aa6201e03ec230c1556c461b2bf0af7d8b674c589c4ab75e0d880df8ed2f96cd0ed13dcb348d42e649ec5753ae1dbaa1bbbd1e5851531b5d17d2d498c8223eeb37adfa1ffbef7d07b003e792a7f4e39c6c13bf7a17432f6f6e01818c8436e5ed0a70efbd08e12667a2168c260c2c9c150d797db697e88baea2a94d0c"
+		"1222637"		"3200000004000000756b953301001001eda71200825e47b101d01fac000000002a12cc63aac1e76301009ac705000000000000bc94bae01d59bde61c02db7c911be3e6129f65a53e8252390da31aafb3f4b5d8ef7748132a2168695ccd6bd90c663763fad7027dee70a0cc3159f64632660e89d495fd788e63980c9bbee288a444721293f71fd3151b46869e774b6027c4619cb60979d25fb2dd27ed989ca491557bea9c153c3778475743855184cfff21ee"
+		"1227440"		"3200000004000000756b953301001001b0ba1200825e47b101d01fac000000002a12cc63aac1e76301009ac705000000000078e3254b1932cd28705b44e9b583b139a233be73190bcc5873aaca8fe931f3ad64c11d448cd70b6406de89b4a952fb97b422d685db1012d714de5f6a85e6434589e8d20039b2233d682167b56a1d71f3b38d64c5909891f72627c5b38b9f1ea7a530e7d0fd0c40d42f584b438c5bbe5a68ab47d1aabf82d3a0d5415feea62181"
+		"1227441"		"3200000004000000756b953301001001b1ba1200825e47b101d01fac000000002a12cc63aac1e76301009ac70500000000003f19e697e8e12b2a9e4b75428b3a1a17fa67f41add6161cb643345a3b32f31d9107b8c851c3f4795c18d7a7ae600c842530ac187ece0c37d854888092612bc29b400ee9b82a3eaeb251bd35a1631904e262139e09eed6dc0a6a392878973c3b57f50a208603f7667869b25d467c014ff501462559392d70f4d2579eb34dc45cc"
+		"1227443"		"3200000004000000756b953301001001b3ba1200825e47b101d01fac000000002a12cc63aac1e76301009ac70500000000006905c60d8c210a5a76d48a43a07b254254aad4388e87b11af77df8d29203531b6b14fc24e7629551922a334ba29255f83e31a16582c3b11da4dac5f76fa87b3c5ecebd1c4026f25cffbfe135783c9a8d5379ed82e67f3f5ac9c93a44b2bd37cc44ff247d21ac3fcd4a6fbd818a964c6d57b8795556575c70acc0081b0ad1ddf2"
+		"1227444"		"3200000004000000756b953301001001b4ba1200825e47b101d01fac000000002a12cc63aac1e76301009ac7050000000000816801a0ab7c7643b77e5f0fedba16afdb8686090b76de380e1c2196ac6bc39ede31b90781fb8379241ad03d2838063021ca2f10d6ff9bd7fbc3a9456cca23ea1a616e6773f672725addd6d9b1896574d2d0d9421655ed1709dc9c48954484a5058d70d2af5615b762a37f1a71b9250eaa3689f6b3baa84372d14a6b3a3fe382"
+		"1227448"		"3200000004000000756b953301001001b8ba1200825e47b101d01fac000000002a12cc63aac1e76301009ac705000000000000db4b0d4e6d9a55e8f0b5b425276e62160999d0d712588f3792639a721e95a55db78ced15d95616accbc92e9520c2c5d1d622deb652976d9be46a45c5660e114908f3b4ff33c9b2791aade2e2bde3aabe3317506cb9716606487ecb4cd1f2cd19008aea24d5d71307e1809a930018b8c7d00ec7f080fa444e7c20e495ced3cd"
+		"1227449"		"3200000004000000756b953301001001b9ba1200825e47b101d01fac000000002a12cc63aac1e76301009ac7050000000000a19e428270a8a2f7cb855caa97732ef36e2ad6cffb3a7fb0bfa47df86ceaf00d1caf5429818ac2d3ed6269e65b06729d9ef08a5c83e7ab6a59c35aa3411a48592043235b552efcb493547d3cf54f355789e2680f0a7d03097bfcacd61c697cfe9472ab2278e93707797df03f883a0c3c8ac8ecf42b15b35a5a4afbf77b32e4a5"
+		"1227452"		"3200000004000000756b953301001001bcba1200825e47b101d01fac000000002a12cc63aac1e76301009ac70500000000008a0ea605a78b7e4f75e63e210f72cf9f06b587e30c535f0a092515ac838de3ce86d0737b0075aacafd780a871986a7ec27944f00b6e0c7910cd69645501f80b18aaa2a53f1a8d23005d08b19b0f62777b87c5f2e8d1471fdf339da192ba51fb361fbb059e1431f4c670264854e26b4696401d5efd4b00851b9de99d6948a18da"
+		"1227450"		"3200000004000000756b953301001001baba1200825e47b101d01fac000000002a12cc63aac1e76301009ac705000000000013e3d367d944c60f70c19663c39ad3cdf066f0e8d839bc99a8a9d0fa878bc8ceb4a35f5feef96583d90a3ec3545487ff72301dc0f14b9cac74ea7c153440671cc672f8e0ba18e20ef67e8cb53009e14575a778826ecc9404da983aa068f39bd84b503088449c13bc668b8c2d23068ccafaf1bc7a877c1b1a98cd76fcc5086010"
+		"1227453"		"3200000004000000756b953301001001bdba1200825e47b101d01fac000000002a12cc63aac1e76301009ac7050000000000cabf512441852f22f295df047182ef44899a754f994ad69f94e54e656fffad308284dca3ee67a255d4eb294473942bba3765e73a71028415a625603eb5dfb13cc9be73dc64137760051d0855479e106a3b00c0e656da240fdf772d89b7efdf397d8d6e42daaf479d5c37ad526b6c5a18181578846a39afba5b2e79794ed133bf"
+		"1227454"		"3200000004000000756b953301001001beba1200825e47b101d01fac000000002a12cc63aac1e76301009ac705000000000030010ad683f415a3f6de9eb1c49a84a9a242b3ea3b3648eda39aeff7f25ac8b591e9f94b80caa191298d46a77bfb80fcf25db07484df2bf47ec64c6df13544413106eb6abf408473b067116eda9d3d369634b8e01aa481cf38d387e280cf6e55e1f0f9985ef9682d106a906630b559ef6b85aa50698c3f1b300b3d2061e610c3"
+		"1227455"		"3200000004000000756b953301001001bfba1200825e47b101d01fac000000002a12cc63aac1e76301009ac705000000000022be836b721f7927a432228012c835406d6154acb3a2b11475f5281d253db05fa4c104c95154958d11025647842f41a64e995ed75c2152b857b6fc1e632062a1e7be76d42ccfb7e56e0edd765adf45d1d57478498ac7c0e818520e509c3c7c1d0938d86f6b9610b99aaf407be1355309e55aa247a2ad9f8bb1f1df4389bd13e1"
+		"1227457"		"3200000004000000756b953301001001c1ba1200825e47b101d01fac000000002a12cc63aac1e76301009ac7050000000000aeda7a546f652babd1cff50808921fa478036571abf7e1a106d0b8762d8dadf81eb82717d89273a3c31695e8dfb5a4f8bd3e236f0db63a3ce867d1bf898532cb3a31bf7111a95986d9251750746af6b703d9b2a609ca695c29743605f9b944685d309c196e4434a33d44847691654e5d66c1be319efb1183487d4607c9b8c5db"
+		"1227456"		"3200000004000000756b953301001001c0ba1200825e47b101d01fac000000002a12cc63aac1e76301009ac70500000000005fa57efa228de4a7661ed44fd8191c148665b2ce7be54a23e666d09100d4bc563963c432a34d2c2e9cc4595b6ac83f22193434bf53be57b0d4c5835daf0487fd8326da3088544e7f259015b7de740f6ffd523ca642fb8cb665f5a2f1051b4b5709400b61abde534f9912ff21ea8e522080a03d0a174108cf45ddb2e3880e47eb"
+		"1227458"		"3200000004000000756b953301001001c2ba1200825e47b101d01fac000000002b12cc63abc1e76301009ac705000000000074988afcd71c5c3d5b9f506d2ddc1c2ff21ce7cb4c80fd9ae6b6ec1912f49cf77510c405c7b788ed214895b2f9378837a10aa2ec4bfa1084ef4d1ee1e46040af2e8d91544408b0eb01c891b8afed5cc668a10897d2c9745c69173061441b023a23ead2bfe2f66d537cef2b31328b3e5cf2fa738f4e580e350042c1366beda8d2"
+		"1227459"		"3200000004000000756b953301001001c3ba1200825e47b101d01fac000000002b12cc63abc1e76301009ac7050000000000aa3ccb9de8efc5eca064874ad6989841a5babd6b5dd58f51fbd932a6b0a8529d7b717bc2656fede16e168ed6bbe5878986fa83a8c3b82db997c3904712eb233236014cedd167ec47e27cd404817aa795da23f265351a1a8b0a98e95ebe59c7e86ba03478c41d52c633aad979d55133ac8f6ceb613c64c6b7dc76f2c46fc694af"
+		"1227460"		"3200000004000000756b953301001001c4ba1200825e47b101d01fac000000002b12cc63abc1e76301009ac70500000000008940416f5462acc72f0bce98cb7136bb47c5e71c07616f10d110079a67f75a7b1c3514962da422428556050eea2c7e6ad7561fa7db7f846f850ed7a4c3ff036f414879e975fe652c78d9943bfce105eb7d7e495508893a01e3cd75449b96888acfda6147d430e3fbc81c31cf0b5b458a383fe77f7a41e10ca77d1ba89f4f56ec"
+		"1227461"		"3200000004000000756b953301001001c5ba1200825e47b101d01fac000000002b12cc63abc1e76301009ac70500000000005d8b456945dea90ea59112e262f1cd14a02ee834a98dec1e67992f141fd83ed5b03103756500190ccefc483fe3db10b9bef3e0afc6326c0c0a423ed7723953fdaac820ec6bd18e2eca338d72516e681bb78d2d06f5fd8e88b8a4a42d9a60df0e133d8a23c24cf3295903bc9054a8a392950e35c184d204c84925301bee9cf62e"
+		"1227467"		"3200000004000000756b953301001001cbba1200825e47b101d01fac000000002b12cc63abc1e76301009ac705000000000062fb0520286112f60b6ce58b38cd5e413337c982b9434afe52c88dc3f799ae4c8438e96ded09ea1d16af408ecdfc82bf73b4245cf6c779cefc126028852615944f2263f19f3a81e786ff550697341df23abcb3f6cda3f406eb241848229e32d048bc77fbcff2256628f5b23cb3168d7d943068cd0f13cb3f68c247a726ce123d"
+		"1227468"		"3200000004000000756b953301001001ccba1200825e47b101d01fac000000002b12cc63abc1e76301009ac70500000000009cb571e2ead24a3713152b44698ede8bfe50910fc194d0a4f2c8a63962b52357d68588b08d65038b65fdc5c947f07ed5b98375a3ea4c2ec5ae1eb5fffc2ac6a1ea1671e871e17ef0a77be86ab2b73e4cac4bf2ccce61893512124e1977c1dea55013537c9e37283babe0fa997690a1a9939d5a95bc0755514f54ffeccc6f279e"
+		"1227481"		"3200000004000000756b953301001001d9ba1200825e47b101d01fac000000002b12cc63abc1e76301009ac7050000000000491ea818d0a1a32a87832226b6ae95adc6fc761bb54987a5bd6d5a3ddc8f23f24370709e6e82e2874862eb80c65668c09930cc751bd066751c2c030dbc1e4ad44f0e6d09bb18f597cfd2b334c19440362752188c55f62bde71c75685ece05ae761133b424799a1e02472ba0bfbf918b2cc0a40c7f0b99a9e4834ff3866d7cf94"
+		"1227482"		"3200000004000000756b953301001001daba1200825e47b101d01fac000000002b12cc63abc1e76301009ac70500000000008e8756baf242d8cd4fefbd47d646f2ad2d8df15e5e6d8fd3e452d8eee28bc899092acc84a619a20271697b5887d0df880cab839ed41fb8cdf11a33c8dce327290809496768e7af5bb49ddb0f6e165ab74b749e81210245fdf11a6a7ca1894447ec438ffd9d14ed8518d8d69b90a6af2d6be7374028c8e06fa4e118bbf7b2bac1"
+		"1227484"		"3200000004000000756b953301001001dcba1200825e47b101d01fac000000002b12cc63abc1e76301009ac70500000000008f75fc4bb5809fa9ad327121022c7c5cf16cc5a08822fa8a104fcb3985e4ce559baa3e340fccab75c9bdb4c2684996f98efa189a3839b7c913718d44a9d30792bd5495f1504bd45bfbb186278dbdabd63964a7b7712450ee36d27d2564425ccec42894ee7386ed47a356118fce23c7866c8ca29ff2da4859cee7dca7145b251f"
+		"1227485"		"3200000004000000756b953301001001ddba1200825e47b101d01fac000000002b12cc63abc1e76301009ac7050000000000c6d2e2a3e67f834e21b85b10db3f8ba0c3cbfc7eb410496eb1074e79a198689e904bf4c61524a803f9b80889405671c80fa082594a5ba2962202ec9fe4c3ab38764686316258a54fdf72ffcaad52e578ee6c8d4d9f10f25fb6c2aab40f656177f6218dea1b2002d0bfab2e86f97811f53691b523110058030e04c136d68dcee4"
+		"1232621"		"3200000004000000756b953301001001edce1200825e47b101d01fac000000002b12cc63abc1e76301009ac705000000000005ae3a6dcc53d7c5162aff6d5f5cc7ed0b0de93e3d3204e760565f605fb5af39069e13208d39c61a9233726619478730f0991781e87d231a3cd46e6ebb5fefe33004f176eaf74cbc48386b3f65d19d14b8e4444c8c9f78403006b93868b0592d8066da707f5f89ab4b067a2a61b8286cb91e654123dd1df80d104cc8c6535c64"
+		"1232622"		"3200000004000000756b953301001001eece1200825e47b101d01fac000000002b12cc63abc1e76301009ac7050000000000c9304dfcecf211fd276370ea16faa4f15203a06c88bfe172957f2637be6ec0c2899754d929e7b7161fb8ba49061bd7d4e2907e6eaaddc1497932646b0fc88ae3905be9c67a394cae2c870ade5554b4fcbba9bbcd9260e3e57d74166c4a9182a73abfb2d84e54d77576a23610bfd420272958f5edca4840f348bde72c85e60e3f"
+		"1234350"		"3200000004000000756b953301001001aed51200825e47b101d01fac000000002b12cc63abc1e76301009ac70500000000007c3fd35a5c2c96e5ac2f1dac2a16a6d2aa339d93c8bda2897dd2532436a45ef9f8506334f756add3e37fb59096ce06eabc78221b8012b42cc235cad07c9e9e8b30d73bc07803f591349204aaf7cc92dfa6cd1c62617221a22578357ef47cc836c2512df77ac7d4204e03eaff70056b3543efd4c1e33b923c7f2d74ecd9ee1623"
+		"1238580"		"3200000004000000756b95330100100134e61200825e47b101d01fac000000002b12cc63abc1e76301009ac7050000000000c553418be68b4ce815772504f98612d0b15b261b00a8fb29e86f604c8438b91948c1a644267f764f65595e2809a469bd6f1278b0b13a02d5bed6c44d05b108f983f08dd58ae69e0636ce37f302ab6ea874c5e2be1ee169e1fe5f246bdfd82f9c1be87d9d69d844f222d7b9b20ad00328b9ff16af64df43b45792aa03c3000dc5"
+		"1828340"		"3200000004000000756b953301001001f4e51b00825e47b101d01fac000000002b12cc63abc1e76301009ac705000000000086ff18c16718d9d95ebf0f3928437c3e56a66354b010f41b5fba64d9f3a72b979766555c5b89e577d22bbda77cc146ed98a3ef279963b12ca2e8bbed9fe9ba7ef4d2f39b52a23d75422ab7491232cf2526b56e83c0f1fd93d40a1696691215b498507688ed793bd0305c7a4c75a7ec0d458886e92329a40bf8239da59bf17803"
+		"1829870"		"3200000004000000756b953301001001eeeb1b00825e47b101d01fac000000002b12cc63abc1e76301009ac70500000000003c053b156c55d4fefc3f2858b72353160678ce28228ab678886ab3efd2cbe341b7af2e6dedb78a5b234c5da43a489158c0e57b7f4d03cca148ee3b5c6e32fbc363f122c2213238222a12dc0fdbf1823cfb56f31a5e65210cedf535641bef027bb6b2924d115254ffa94ce8d8d20455a0ed161da9623b28b1a3f008f3de9b0388"
+		"1843610"		"3200000004000000756b9533010010019a211c00825e47b101d01fac000000002c12cc63acc1e76301009ac705000000000055be0fa2b1457c997bf050a1188f41cf6d9abd14810d5ad14def011a14dcb93fc4f572e4c5bc40862acc6adea92e6fa1f9b1a7946c38e486fee198e643571c85d2383052997ea4276daec7987218cceb3ebe2cd003453ed931253b404ef045181f43ed4ce7be2fb1c40c2157e5d59bb00a0c21b59dbead25e703d8edefb46c91"
+		"1843660"		"3200000004000000756b953301001001cc211c00825e47b101d01fac000000002c12cc63acc1e76301009ac7050000000000d8ccbc8ec04a224860399016c919d48f3ebd74eb6aa956d568d25e96afbc22bdabdffd64e18be4a1bed881acf2f3642f1f1200f9f0f7758e2c02c41669095edda889a06e124b7fd734c33386b4f0e71de2915412f0545c4ae7105ef18a58b0d5168fcc26f55ca99959ae41cf8fb0bf0336da524ff5a2095baecf79684b30b9ca"
+		"1844870"		"3200000004000000756b95330100100186261c00825e47b101d01fac000000002c12cc63acc1e76301009ac705000000000043edd20e93c2c2553669f81b124f9c81e135211182a669346775a76c45624b220cc9a61bcdc48b993ec7c156f16b2a0e59621471b8febf80bf8d739de7af17f10ba678fb78b601f1054e9753611874f04df42cfeb6192208a86516745b665498cb36c6d69969e41539c2d8449ec837805cf9486b4d6abe76645c26a7712349bf"
+		"1844930"		"3200000004000000756b953301001001c2261c00825e47b101d01fac000000002c12cc63acc1e76301009ac705000000000055ec2d10244813fc2c7ca4774765a00abcee2c0dbc5128b81f41c590f4c8cba1c69bbf946f6a044b52f68211a57be18a08064e06e0e9dcba03975da432fb29fc536dea0eee3446ffc1efa9a7cc7b524628b0ce555da24c26df6425e04d40563ab3194e675f74c01475bd541572a9e3afcdaffcdac6134c045b3e139267953b9a"
+		"1876450"		"3200000004000000756b953301001001e2a11c00825e47b101d01fac000000002c12cc63acc1e76301009ac7050000000000c4b9578c9ce92fb24e4e24b181d865f58cffae6bb7d9d3eefb5fa43a6abd1293f5761a87268247c638509aafa593f564320870d8a530b566c7393bcd6ff5364dfe9cba081e81b82619987927cb848c81c2a81cb50f0bd4ed0aed003a8ba58d68963196c98364a577b99dda745ec658c421f92d494caeba3215bec37ff4c94a7b"
+		"1905200"		"3200000004000000756b95330100100130121d00825e47b101d01fac000000002c12cc63acc1e76301009ac70500000000003250cf45d68f92bdd0a9ba3d5b4b08b379314a221f169df70555e191cd96147e82778c75163a0950325bc815041729c44143d30327383146d9eff44a661f3982972d9856d07966bed18ffda4d4261c6d5ce88de6fc6352361c9abcdd9333c315f73f77fc35de147fb3644e21757be940557c0e88b169b78ac218e33485462320"
+		"1985100"		"3200000004000000756b9533010010014c4a1e00825e47b101d01fac000000002c12cc63acc1e76301009ac7050000000000b321c777d8595fb365ace0516253b3fa9f95a25e674dc6294527b065f19a40a4484b830c51de8f4636e0356a8117a82bc9f1ddef412af0e30966f7a0bfcb8c9a446b0714f12ccaf8c57857e50027f89c190f6f167203b7976b4379ede477e7880a477b7567131a9ee2e89d7fc1d271586d8e9e898f527ed6a97038d49508cec0"
+		"2004070"		"3200000004000000756b95330100100166941e00825e47b101d01fac000000002c12cc63acc1e76301009ac7050000000000a1b6efc0aea948bb406fa324ebcce1fbc65a9f2283cfbe6c0736c03d92fad6d5849f310237577f1a74871de12ef5264781c7946433ea863589ef6e91645b8d9fcaac13b37f32c8b13d69df45fed9dbeb5a0837db796dcfb6daf0b9bb6d6a029945c9482d408dddf643e9d5a0a9f66bbb79cca9b38af4f2695fbab036b8346e88"
+		"2004140"		"3200000004000000756b953301001001ac941e00825e47b101d01fac000000002c12cc63acc1e76301009ac705000000000042031e6c78571d12784a606d16e768376c6acbb99a864905e3bde8cd2077a35014f6b0a146d6f854d67f40353f76e934f92205fef54fb6922ef68fa4b631a47a37a8236c1924e93adbd33c392855d504b523dd89eeb992f46bd2315c23bf48fb0dd68b3bc5a40d8285eea3a6bb29324fea72efa039fec6d2a097b61f9029d692"
+		"2008300"		"3200000004000000756b953301001001eca41e00825e47b101d01fac000000002c12cc63acc1e76301009ac70500000000001a4106a6634e6a0f9d9077bd1333acde2c1d7e05ed5aaacb4fd54e14792598ccfb8ef5417d80735c3c2342e46cbfa452343e7c8f29c0a682bc081acdc2c504b7d7bd82666f62ef739d4eeb46fe6f86040c2f8131cb591c03b018a2c46166b95b22ec3b9717b7b8f2ced24c6715e6a925ba454eeb91304d65d6e0336fb84f2509"
+		"2010120"		"3200000004000000756b95330100100108ac1e00825e47b101d01fac000000002c12cc63acc1e76301009ac705000000000085b5c9a0e706c381a3ffe6c80481b82ca1b2d6292ba09f3857d10c40bb06a2bcb6b3288e2896ffdf23ae91dcbc1e3c93366febdf42c504e64672a8ccb6981f83e8c6e308b77594661d969872d16438fcbc9430875aa24c873831a35c56e97c5ff31080ba9d577c9e31b8bbd21937c6bf38f311a9c0e38a2a9df4bcaf38c2d296"
+		"2010121"		"3200000004000000756b95330100100109ac1e00825e47b101d01fac000000002c12cc63acc1e76301009ac7050000000000da3845593b17b5cc5dd51a130feb85ec99cf3c6b6414412daedbde8c1b1f7d0e413996f7995167aa8ef5bf51e64a94eb70c4e011d5624f22d0dca3cb40ceaef5040a9ba1c26f78224dea2047dc03b069dc3e381b4a0d7836470b50258eb4a727fe49d9ce1536523828a75a3618d14a93cceecafd60251097445b337e3a88fcf7"
+		"2062460"		"3200000004000000756b9533010010017c781f00825e47b101d01fac000000002c12cc63acc1e76301009ac705000000000020a269f38ab2c97dd51d597f5f8fa9ffa2697911a2cc6d7fb90ed7d8093dcc0da6d08a3260387682e5e886c887e98c538e44fdbfd1b80ff1f34cb935882aca90bfb0b157ee209acfe68a84105dddbb5736f09c52cb74afb1dd7846eeed2c65898dd2b12dcec273fad9857507c73c84f7ec167344c67f791648e4cf30e5d38095"
+		"2066880"		"3200000004000000756b953301001001c0891f00825e47b101d01fac000000002c12cc63acc1e76301009ac7050000000000b7354d8d1d17824fb39e4d8ce230e64fbed3a3291f02109ac34d8cd5a4bfd0371a892438602b0cbc1d2f0e40aef325cc733fae17e3e1e40c562e24ce8eb9a2e39d76407ace1010218bb72366f0a2e09a188faffeec4a9816ad0c7696eff1e4edf2ee7dde1261999474bbb75b6acec6298aa80b7eaed1b2875287d5389229030e"
+		"2234340"		"3200000004000000756b953301001001e4172200825e47b10b12a8c000000000efdabf636f8adb6301009ac7050000000000c1e006a84dbdf2ccfa38106a375a7d1e5e765789e3998db7a606df8bb1908a175a87d1decf9e3aa54009691fbfb9bbd8202b32fc90bc57f63c8a52049297884437c0ac7be004fd4c47fdd47ce442648edb6c9cae94bd2041aa23eb5db2e28aca410ad35301e32ed68713b012e5ed31b8708e5316b5e61699c22e10bb876f8c74"
+		"2246910"		"3200000004000000756b953301001001fe482200825e47b101d01fac000000008e16c8630ec6e36301009ac70500000000009d4bf81f1af3b25a65ed29af9ab3b2831a9b1fcafcb9fe9edfd19fd29a95b37c7029e3c579727509934f4ddaf7e1290d434585e64c741d28bc204cd30693793ca08122801f5b43a91960248f9ae2ec3879b476ecaaa5e7607094060600653b2404ab831187aa793f0d3ae25de89e132e31ae7dae6a8b8033cfa59bf2c779b10f"
+	}
+	"AppInfoChangeNumber"		"17460754"
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"apps"
+				{
+					"7"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"570"
+					{
+						"LastPlayed"		"1526424375"
+						"Playtime"		"53"
+					}
+					"730"
+					{
+						"LastPlayed"		"1600115294"
+						"Playtime"		"169"
+					}
+					"20900"
+					{
+						"LastPlayed"		"1549643706"
+						"Playtime"		"20"
+					}
+					"203160"
+					{
+						"LastPlayed"		"1656802246"
+						"Playtime"		"1012"
+					}
+					"242700"
+					{
+						"LastPlayed"		"1592861949"
+						"Playtime"		"6"
+					}
+					"298110"
+					{
+						"LastPlayed"		"1588213805"
+						"Playtime"		"303"
+					}
+					"319630"
+					{
+						"LastPlayed"		"1545493176"
+						"Playtime"		"30"
+					}
+					"322310"
+					{
+						"LastPlayed"		"1549474373"
+						"Playtime"		"1"
+					}
+					"391220"
+					{
+						"LastPlayed"		"1619582776"
+						"Playtime"		"9"
+					}
+					"397900"
+					{
+						"LastPlayed"		"1593883201"
+						"Playtime"		"244"
+					}
+					"413150"
+					{
+						"LastPlayed"		"1656776663"
+						"Playtime"		"6"
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"424840"
+					{
+						"LastPlayed"		"1622611584"
+						"Playtime"		"7"
+					}
+					"431960"
+					{
+						"LastPlayed"		"1658536354"
+						"Playtime"		"409"
+					}
+					"437920"
+					{
+						"LastPlayed"		"1655700043"
+						"Playtime"		"33"
+					}
+					"606150"
+					{
+						"LastPlayed"		"1669771772"
+						"Playtime2wks"		"45"
+						"Playtime"		"1874"
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+						"autocloud"
+						{
+							"lastlaunch"		"1669769018"
+							"lastexit"		"1669771772"
+						}
+						"BadgeData"		"020000000808"
+					}
+					"878760"
+					{
+						"LastPlayed"		"1529796565"
+						"Playtime"		"24"
+					}
+					"945360"
+					{
+						"LastPlayed"		"1655312031"
+						"Playtime"		"76"
+					}
+					"1118310"
+					{
+						"LastPlayed"		"1669508469"
+						"Playtime"		"25"
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+						"autocloud"
+						{
+							"lastlaunch"		"1669508449"
+							"lastexit"		"1669508469"
+						}
+						"BadgeData"		"020000000808"
+						"Playtime2wks"		"24"
+					}
+					"1313440"
+					{
+						"LastPlayed"		"1655670495"
+						"Playtime"		"1"
+					}
+					"1515950"
+					{
+						"LastPlayed"		"1655311718"
+						"Playtime"		"2"
+					}
+					"1568590"
+					{
+						"LastPlayed"		"1655603099"
+						"Playtime"		"13"
+					}
+					"1588800"
+					{
+						"LastPlayed"		"1655670364"
+						"Playtime"		"1"
+					}
+					"1879930"
+					{
+						"LastPlayed"		"1655670438"
+						"Playtime"		"1"
+					}
+					"1913910"
+					{
+						"LastPlayed"		"1655670164"
+						"Playtime"		"2"
+					}
+					"1935700"
+					{
+						"LastPlayed"		"1655670624"
+						"Playtime"		"1"
+					}
+					"1992330"
+					{
+						"LastPlayed"		"1655670009"
+						"Playtime"		"21"
+					}
+					"1997180"
+					{
+						"LastPlayed"		"1655670802"
+						"Playtime"		"1"
+					}
+					"2001550"
+					{
+						"LastPlayed"		"1655670560"
+						"Playtime"		"1"
+					}
+					"2001950"
+					{
+						"LastPlayed"		"1655604199"
+						"Playtime"		"17"
+					}
+					"2013570"
+					{
+						"LastPlayed"		"1655670289"
+						"Playtime"		"1"
+					}
+					"760"
+					{
+						"cloud"
+						{
+							"quota_bytes"		"20000000000"
+							"quota_files"		"50000"
+							"used_bytes"		"108047"
+							"used_files"		"2"
+						}
+					}
+					"241100"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+						"autocloud"
+						{
+							"lastlaunch"		"1669769019"
+							"lastexit"		"1669771774"
+						}
+					}
+				}
+				"LastPlayedTimesSyncTime"		"1669771772"
+				"PlayerLevel"		"8"
+			}
+		}
+	}
+	"WebStorage"
+	{
+		"CachedCommunityPreferences"		"{\"bBlurAdultContentViolence\":true,\"bBlurAdultContentSex\":true,\"bParenthesizeNicknames\":true}"
+		"CachedStorePreferences"		"{\"eReviewScorePreference\":0,\"content_descriptor_preferences\":{\"content_descriptors_to_exclude\":[]},\"provide_deck_feedback\":1}"
+		"UIStoreLocalState"		"{\"nVersion\":1,\"eGameListView\":1,\"bGroupedByCollection\":true,\"bSortedByRecent\":false,\"mapCollapsedState\":[[\"uc-5MBGnzD3WV2w\",true],[\"uncategorized\",true],[\"hidden\",true],[\"favorite\",true]],\"currentSelection\":{\"strCollectionId\":\"uncategorized\",\"nAppId\":null},\"bGroupBySharedLibraries\":false,\"collectionFilter\":{\"nFormatVersion\":2,\"strSearchText\":\"\",\"filterGroups\":[{\"rgOptions\":[1,2],\"bAcceptUnion\":true},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false}],\"setSuggestions\":[]}}"
+		"keyboard_haptic_preset"		"2"
+		"keyboard_haptic_custom"		"{\"eHapticType\":2,\"unIntensity\":4,\"ndBGain\":-5}"
+		"keyboard_trackpad_typing_scale"		"1"
+		"keyboard_trackpding_typing_trigger_as_click"		"true"
+		"keyboard_layout"		"{\"currentLayout\":0,\"selectedLayouts\":[19]}"
+		"trendingstore_storage"		"{\"version\":2,\"data\":[{\"appid\":1262580,\"rgAccountIDs\":[208775111],\"totalFriends\":1},{\"appid\":920490,\"rgAccountIDs\":[881679078],\"totalFriends\":1},{\"appid\":1120480,\"rgAccountIDs\":[208775111],\"totalFriends\":1},{\"appid\":1180660,\"rgAccountIDs\":[208775111],\"totalFriends\":1}],\"lastFetchTimeMS\":1674060943402}"
+		"wishlistonsalestore_storage"		"{\"version\":1,\"data\":{\"rgAppIDs\":[1343240,1872680],\"bExhausted\":false,\"nSkipped\":0},\"lastFetchTimeMS\":1674060943417}"
+		"SteamVoiceSettings_865430389"		"{\"inputGain\":1,\"outputGain\":1,\"noiseGateLevel\":2,\"noiseCancellation\":true,\"echoCancellation\":true,\"autoGainControl\":true,\"selectedMic\":\"default\",\"selectedOutput\":\"default\",\"pttSoundsEnabled\":true,\"hasResetOpenMicHotKey\":true}"
+		"CTextFilterStore_TextFilterPreferences"		"{\"eTextFilterSetting\":1,\"bIgnoreFriends\":true}"
+		"CTextFilterStore_TextFilterWords"		"{\"text_filter_custom_banned_words\":[],\"text_filter_custom_clean_words\":[]}"
+		"CTextFilterStore_strBannedPattern"		"\"\\\\b(hij[ao]\\\\W*de\\\\W*putillas?|hij[ao]\\\\W*d?e\\\\W*putas?|hij[ao]\\\\W*de\\\\W*perras?|me\\\\W*cago\\\\W*en\\\\W*díos|vete\\\\W*a\\\\W*la\\\\W*mierda|mecagoenlavirgensanta|pendej(a|ada|as|o|os)|tont[ao]\\\\W*del\\\\W*culo|mecagoenlaputadeoros|mecagoenlaputavirgen|a\\\\W*las?\\\\W*mierdas?|chinga\\\\W*tu\\\\W*madre|cago\\\\W*en\\\\W*díos|calienta\\\\W*pollas|que\\\\W*te\\\\W*follen|tu\\\\W*puta\\\\W*madre|dar\\\\W*por\\\\W*culo|hij[ao]putillas?|me\\\\W*la\\\\W*pelan?|que\\\\W*te\\\\W*jodan|come\\\\W*mierdas?|encabronamiento|gordo\\\\W*cabrón|tragasalchichas|zampasalchichas|cabeza\\\\W*polla|comesalchichas|me\\\\W*cago\\\\W*en|me\\\\W*la\\\\W*suda|mecagoenlaputa|pu+tit(a+|o)s?|que\\\\W*te\\\\W*den|agilipolladas|agilipollados|agilipollando|agilipollante|agilipolláis|hij[ao]putas?|jode\\\\W*madres|tont[ao]lculo|tus\\\\W*muertos|zampatronchos|agilipollada|agilipollado|amariconados|chulomierdas|comefelpudos|encabronadas|encabronados|encabronando|encabronáis|jilipolleces|jode\\\\W*putas|jodiaporculo|jodioporculo|mecagoendios|pu+t(a+|o)s?|puta\\\\W*madre|agilipollad|agilipollar|agilipollas|amariconado|cagaríamos|caramierdas|chulomierda|chupahuevos|ciberfollar|comechochos|cyberfollar|encabronada|encabronado|encabronais|follamadres|follábamos|gilipuertas|jilipuertas|jodiéramos|lamechochos|malfolladas|malfollados|mecagondios|mecagontodo|mierdecilla|polla larga|soplapollas|tocacojones|tragapollas|tragasables|zampapollas|zampasables|acojonadas|acojonando|acojonante|agilipolla|agilipollo|cabr[óo]n|cabronacas|cabronacos|cabronazas|cabronazos|cagallones|cagamierda|cagaríais|cagábamos|cagáramos|cagásemos|caramierda|carapollas|chuloputas|chupaculos|comechocho|comecoños|comepollas|comerrabos|comesables|encabronad|encabronar|encabronas|follaculos|folladoras|folladores|follatetas|gilipichas|gilipichis|gilipol\\\\w+|ijosdeputa|imbéciles|jilipichas|jilipichis|jilipollas|jilipollez|joderiamos|lamecoños|lamehuevos|lamepollas|lamerrabos|malafollá|malfollada|malfollado|pollalarga|puteadoras|puteadores|puticlubes|tragaleche|acojonada|cabronaca|cabronaco|cabronaza|cabronazo|cagallón|cagaremos|cagaréis|cagarían|cagarías|cagasteis|cagondios|caraculos|carapolla|chuloputa|comecoño|comenabos|comepolla|comepoyas|encabrona|encabrono|felación|follabais|folladora|follarín|gilipoyas|hideputas|ijodeputa|jilipolla|jilipoyas|joderemos|joderiais|jodiendas|jodierais|jodisteis|lameculos|malafolla|mecagonto|pelotudas|pelotudos|puteadora|puticlubs|tragalefa|zampalefa|acojonar|cabritos|cabronas|cabrones|cagabais|cagadón|cagarais|cagareis|cagarán|cagarás|cagaría|cagaseis|cagastes|caguemos|caraculo|comelefa|follaban|follabas|folladas|follador|follados|follad|follando|follen|folleteo|folláis|fóllame|giñadas|giñados|giñando|giñotes|giñáis|hideputa|imbécil|jodedora|jodereis|joderian|joderias|jodiamos|jodienda|jodiendo|jodieran|jodieras|jodieron|malaputa|pelotuda|pelotudo|polladas|pollitas|pollones|puteador|puticlub|putillas|putorras|acojone|boludas|boludos|cabrito|cabrona|cagaban|cagabas|cagadas|cagados|cagamos|cagando|cagaran|cagaras|cagaren|cagares|cagaron|cagará|cagaré|cagasen|cagases|cagaste|cagáis|carajos|carallo|cojones|coñazo|follaba|follada|follado|follais|folla|folle|giñada|giñado|giñais|giñote|hostias|imbecil|jodamos|jodedor|jodemos|joderan|joderas|joderia|jodeís|jodiais|jodidas|jodidos|jodiera|jodimos|jodiste|jodáis|jodéis|jódete|mierdas|pollada|pollazo|pollita|pollón|putadas|putazas|putazos|puteada|puteado|putilla|putonas|putones|putorra|boluda|boludo|cagaba|cagada|cagado|cagaos|cagara|cagare|cagase|caguen|cagás|cagón|carajo|cojón|follad|follar|follas|foyada|giñad|giñar|giñas|hostia|jodeis|jodera|jodere|jodian|jodias|jodida|jodido|jodona|jodío|jodón|meadas|meados|meando|meáis|mierda|ostias|pollas|putada|putaza|putazo|putear|putona|putón|cagad|cagan|cagao|cagar|cagas|cagó|cojon|folla|follo|giña|giño|jodad|jodan|jodas|joded|joden|joder|jodes|jodia|jodí|lmfao|meada|meado|meais|ostia|polla|poyas|xculo|caga|cago|joda|jode|jodo|joer|mead|mear|meas|poya|puti|mea|meo|(ape|bat|bull?|butt|dip|dog|dumb|ebo|holy|horse|jack|pedo|pig|ubi)\\\\W*sh(it|ti)s?|d[il]+(ck|kc)\\\\W*(ass|bag|breath|eat|face|flip|head|hole|less|suck|weed)\\\\w*|f[chj]?(a|au|aw|e|o+|u|uy)[ch]*k(e?d|e?rs?|[ei]?n+g?|t)|m[aou](d+|t+|th|ht|z)(a|e|er|ir|ur)(c|f)c?[aou]c?k\\\\w*|m[ou]th(a|er)(f|ph)[vue]+c?[gkqx]+(e?d|e?r|[ei]?n+g?)|\\\\w*f[vu]+h*c+[hjvk]*(e?d|e?r|[ei]?n+g?|t)|b+i+a*t+c+h+(e+d|e*r?[sz]+|[ei]?n+g?|y)|\\\\w*f[vu]+c?[xkq]+(e?d|e?r|[ei]?n+g?|t)|p(oo+|u+)s+(a+y+|e+|eh|ey|i+|ie|y+)s*|m[ou]th(a|er)(f|ph)[vue]+c?[gkqx]+|\\\\w*f[vu]+h*q(e?d|e?r|[ei]?n+g?|t)|f[chj]?(a|au|aw|e|o+|u|uy)[ch]*k|f[ck]+(e?d|e?r|[ei]?n+g?|t)|fu󠀡󠀡cki󠀡󠀡ng|dumb(f|ph)[vu]+c?[xkq]|c(oc?|aw)k\\\\W*suc?k\\\\w*|d[il]+(ck|kc)(ed|ing)|ph[vu]+h*c+[hjvk]*\\\\w*|son\\\\W*of\\\\W*a\\\\W*bitch|долбоебизм|\\\\w*who+re(ed|ing|s)|c(o|ah|aw)c?k(s|ed)|s+h+[ily]+t+[ersy]*|a+ss+\\\\W*w?hole?\\\\w*|ph[vu]+c?[xkq]+\\\\w*|говноедов|долбаебов|ебланская|ебланский|заебёшься|захуячили|пидарасов|пидарский|съебаться|уебанский|уебищьное|f[vu]+c?[xkq]+\\\\w*|bull+sh+[ily]+t+|god\\\\W*damn?\\\\W*it|ахуенная|ахуенную|ахуенный|выебаное|ебанному|ебанутые|ебланами|пидарасы|уёбищная|уёбищный|god\\\\W*damn?\\\\w*|въебали|въебать|ебанная|ебанное|ебанных|ебаного|ебаньки|ебонное|заебала|заебало|поебень|хуёвого|a+ss+\\\\W*fu\\\\w*|c(o|ah|aw)c?k|d[il]+(ck|kc)|b+i+a*t+c+h+|butt\\\\W*fu\\\\w*|cumm(er|ing)|f[vu]+h*c\\\\w*|f[vu]+h*q\\\\w*|sh+i+[ae]+t+|ахуели|ебаная|ебаное|ебаной|ебаную|ебаные|ебаный|ебаным|ебаных|ебучий|пиздеж|пиздец|сраная|уёбища|уёбище|хуесос|хуетой|хуйнёй|хуёвая|хуёвый|你妈死了|妈的个逼|c+u+n+t+\\\\w*|d+i+c+k+s*|fu‎cking|блядь|блять|дохуя|дрочи|ебало|ебать|н4еб4л|нахуй|нахуя|нехуй|нихуя|пизде|пизду|похуй|уебёт|хуета|хуету|хуйни|хуйню|хуйня|ёбаны|a+sholes?|sh+e+i+t+|操你妈|操你妹|肏你妈|ахуе|ебал|ебут|сука|хуям|шлюх|F\\\\.U\\\\.C\\\\.K|chodes?|cumshot|fucking|fu‎ck|shit\\\\w*|shtpost|who+re?|cumbag|jebane|twats?|бля|ебу|хуи|хуй|хуя|傻逼|操死|臭逼|cums?|dafuq|diсk|sh it|coq+|hore|kock|shat|dik|fck|\\\\w*f+u+c+k+\\\\w*|\\\\w*fцск\\\\w*|\\\\w*shіtty\\\\w*|\\\\w*f_uc_k\\\\w*|\\\\w*pussy\\\\w*|barriobajero|fascistoides|resoplanucas|bujarrillas|fascistoide|julandrones|maric[óo]n|mariposonas|mariposones|moromierdas|tortilleras|bujarretas|bujarrilla|bujarrones|julandrón|mariconazo|mariconear|marimachos|mariposona|mariposón|mariquitas|moromierda|puta negra|puto negro|soplanucas|tortillera|bujarreta|bujarrón|conguitos|macarroni|machorras|machorros|mariconas|maricones|marimacho|mariquita|panchitas|panchitos|bolleras|bujarras|conguito|gabachas|gabachos|machorra|machorro|maricona|marijuli|panchita|panchito|putomoro|travelos|bollera|bujarra|gabacha|gabacho|maricas|moracos|morillo|negrata|negrero|nenazas|palurdo|sarasas|sudacas|travelo|cateta|cateto|fachas|julais|julays|locaza|marica|moraco|sarasa|sudaca|tortis|facha|julay|tanas|tanos|torti|faxa|tana|tano|n+([ehiy]+|ay|ey|io|[il]+)[bgq$]+h?(a+|aer|a+h+|a+r+|e+|ea|eoa|e+r+|ie|ier|let|lit|o|or|r+|u|uh|uhr|u+r+|ward|y+)s*|f[ae]y?g+[oeiu]+t+s?|даунская|пидорасы|ching\\\\W*chongs?|n󠀡󠀡iggers|re+t+a?r[dt]+s?|towel\\\\W*heads?|москаль|пидорка|pac?k(i|ie|y)|ting\\\\W*tongs?|trann(ie|y)s?|white\\\\W*trash|ni:gg\\\\w*:\\\\w*|chin(c|k)s?|n+i+[gq]+s?|yam\\\\W*yams?|\\\\w*niggas?|chinamans?|polacke?s?|кацап|русня|хохлы|хохол|neekeris?|nigfhers?|redskins?|beaners?|coolies?|f+a+g+s*|fenians?|gringos?|newfags?|ni gg er|nigga\\\\w*|niggles?|nignogs?|rus+kis?|wiggers?|Ϝaggоt|gypsies|injuns?|jiggas?|nikkas?|wiggas?|\\\\w*fag|beaner|coons?|dykes?|fa66ot|fagts?|gooks?|gypos?|homos?|kikes?|kokhol|moskal|reggin|spics?|abos?|fgts?|fаgs|gypsy|japs?|wops?|fagz|fаg|f@g|\\\\w*N󠀡󠀡IGGE󠀡󠀡R\\\\w*|\\\\w*свинособак\\\\w*|\\\\w*ɴɪɢɢᴇʀ\\\\w*|\\\\w*nіggеr\\\\w*|\\\\w*NÍGGER\\\\w*|\\\\w*n\\\\\\\\\\\\|gger\\\\w*|\\\\w*niggеr\\\\w*|\\\\w*F4GG0T\\\\w*|\\\\w*N1GG3R\\\\w*|\\\\w*nigger\\\\w*|\\\\w*nigg4\\\\w*|\\\\w*niggz\\\\w*)\\\\b\""
+		"CTextFilterStore_strCleanPattern"		"\"^(\\\\b(kompetenzteam|派送员|pinegrove|n\\\\.e\\\\.ig\\\\.e\\\\.|fukushima|snigger|nie gee|fuchian|cock\\\\.li|fuxius|fucuro|niego|niebo|neige|neggy|nebby|fuxis|cwfag|pubg|niby|nebo|fuku|fuki|fakt|g24|\\\\w*fvchvo\\\\w*fak(ed|ers?|ing)|kompetenzteam|派送员|pinegrove|n\\\\.e\\\\.ig\\\\.e\\\\.|fukushima|snigger|nie gee|fuchsia|fuchian|cock\\\\.li|fuxius|fucuro|niego|niebo|neige|neggy|nebby|fuxis|cwfag|pubg|niby|nebo|fuku|fuki|fakt|g24|\\\\w*fvchvo\\\\w*)\\\\b)$\""
+		"playnextstore_storage"		"{\"nVersion\":3,\"cachedPlayNext\":{\"last_update_time\":1673969350,\"appids\":[291550,601510,1677740,813820,238960,1818750,386360,1085660,1172470,504230,438100,367450,1599340,532210,1180660,1049590,346110,489520,1209040,424280,438740,435790,414160,1438440,1105420,640590,1369320,311690,304390,1245620]},\"rgIgnoredApps\":[]}"
+		"ChatStorePopupState_865430389"		"{\"bFriendsListVisible\":false,\"always_restore\":false,\"bFriendsListCollapsed\":false}"
+		"deck_compatibility_feedback_ask"		"[]"
+		"deck_compatibility_feedback_eligible_apps"		"{}"
+		"FriendStoreLocalPrefs_865430389"		"{\"ePersonaState\":1,\"strNonFriendsAllowedToMsg\":\"\"}"
+	}
+	"system"
+	{
+		"PushToTalkKey"		"0"
+	}
+	"CloudKey"		"010000008802a65b0b979dc745b1be848753400b2cead04520d625e87b9499155ae7bfb7f4965b32"
+	"CloudKeyCRC"		"2107361144"
+	"LastInstallFolderIndex"		"0"
+	"UserAppConfig"
+	{
+		"606150"		"00696e7465726e616c00016c616e6775616765007370616e697368000808"
+		"228980"		"0055736572436f6e6669670001626574616b6579007075626c6963000808"
+		"413150"		"00696e7465726e616c00016c616e677561676500656e676c697368000808"
+		"1118310"		"00696e7465726e616c00016c616e677561676500656e676c697368000808"
+	}
+	"CloudManager"
+	{
+	}
+	"RecentLocalPlayedGameIDs"		"c63f090000000000fcb1866300c63f09661011000000000075ad826300000000de4d060000000000920c5a63004f5200"
+	"SkipLastInstallPage"		"1"
+	"StartupState.Friends"		"0"
+	"depots"
+	{
+		"413150"
+		{
+			"CDN"
+			{
+				"f3b7q2p3.ssl.hwcdn.net"
+				{
+					"token"		""
+					"Expires"		"1672855258"
+				}
+			}
+		}
+		"1118311"
+		{
+			"CDN"
+			{
+				"steampipe.akamaized.net"
+				{
+					"token"		""
+					"Expires"		"1669515047"
+				}
+				"f3b7q2p3.ssl.hwcdn.net"
+				{
+					"token"		""
+					"Expires"		"1671175329"
+				}
+			}
+		}
+		"1829870"
+		{
+			"CDN"
+			{
+				"steampipe.akamaized.net"
+				{
+					"token"		""
+					"Expires"		"1669515047"
+				}
+			}
+		}
+		"1843610"
+		{
+			"CDN"
+			{
+				"steampipe.akamaized.net"
+				{
+					"token"		""
+					"Expires"		"1669515048"
+				}
+			}
+		}
+		"1844930"
+		{
+			"CDN"
+			{
+				"steampipe.akamaized.net"
+				{
+					"token"		""
+					"Expires"		"1669515049"
+				}
+				"f3b7q2p3.ssl.hwcdn.net"
+				{
+					"token"		""
+					"Expires"		"1671175336"
+				}
+			}
+		}
+		"1905200"
+		{
+			"CDN"
+			{
+				"steampipe.akamaized.net"
+				{
+					"token"		""
+					"Expires"		"1669515050"
+				}
+			}
+		}
+		"2004070"
+		{
+			"CDN"
+			{
+				"steampipe.akamaized.net"
+				{
+					"token"		""
+					"Expires"		"1669515050"
+				}
+			}
+		}
+		"2008300"
+		{
+			"CDN"
+			{
+				"steampipe.akamaized.net"
+				{
+					"token"		""
+					"Expires"		"1669515051"
+				}
+			}
+		}
+		"2010121"
+		{
+			"CDN"
+			{
+				"steampipe.akamaized.net"
+				{
+					"token"		""
+					"Expires"		"1669515052"
+				}
+			}
+		}
+		"2066880"
+		{
+			"CDN"
+			{
+				"steampipe.akamaized.net"
+				{
+					"token"		""
+					"Expires"		"1669515052"
+				}
+				"f3b7q2p3.ssl.hwcdn.net"
+				{
+					"token"		""
+					"Expires"		"1669518172"
+				}
+			}
+		}
+		"1843660"
+		{
+			"CDN"
+			{
+				"steampipe.akamaized.net"
+				{
+					"token"		""
+					"Expires"		"1669515053"
+				}
+			}
+		}
+		"1844870"
+		{
+			"CDN"
+			{
+				"steampipe.akamaized.net"
+				{
+					"token"		""
+					"Expires"		"1669515054"
+				}
+			}
+		}
+		"1876450"
+		{
+			"CDN"
+			{
+				"steampipe.akamaized.net"
+				{
+					"token"		""
+					"Expires"		"1669515055"
+				}
+			}
+		}
+		"1985100"
+		{
+			"CDN"
+			{
+				"steampipe.akamaized.net"
+				{
+					"token"		""
+					"Expires"		"1669515055"
+				}
+			}
+		}
+		"2004140"
+		{
+			"CDN"
+			{
+				"steampipe.akamaized.net"
+				{
+					"token"		""
+					"Expires"		"1669515056"
+				}
+				"f3b7q2p3.ssl.hwcdn.net"
+				{
+					"token"		""
+					"Expires"		"1671175338"
+				}
+			}
+		}
+		"2010120"
+		{
+			"CDN"
+			{
+				"steampipe.akamaized.net"
+				{
+					"token"		""
+					"Expires"		"1669515057"
+				}
+			}
+		}
+		"2062460"
+		{
+			"CDN"
+			{
+				"steampipe.akamaized.net"
+				{
+					"token"		""
+					"Expires"		"1669515057"
+				}
+			}
+		}
+		"2234340"
+		{
+			"CDN"
+			{
+				"steampipe.akamaized.net"
+				{
+					"token"		""
+					"Expires"		"1669774509"
+				}
+				"f3b7q2p3.ssl.hwcdn.net"
+				{
+					"token"		""
+					"Expires"		"1671175322"
+				}
+			}
+		}
+		"2246910"
+		{
+			"CDN"
+			{
+				"level3.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1671174813"
+				}
+			}
+		}
+	}
+	"controller_registration"
+	{
+		"DS4cb99b181ea0_12345678"
+		{
+			"865430389"
+			{
+				"registration_complete"		"1"
+			}
+		}
+		"45e-28e-33956b75_12345678"
+		{
+			"865430389"
+			{
+				"registration_complete"		"1"
+			}
+		}
+		"c013376f124c_12345678"
+		{
+			"865430389"
+			{
+				"registration_complete"		"1"
+			}
+		}
+		"a05a5ce93222_12345678"
+		{
+			"865430389"
+			{
+				"registration_complete"		"1"
+			}
+		}
+	}
+	"ControllerTypesUsed"		"controller_ps5,controller_xbox360,controller_ps4,"
+	"DualSense_DisableUpdateNotifications"		"1"
+	"Web"
+	{
+		"SetDefaults"		"1"
+	}
+}
