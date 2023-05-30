@@ -1,0 +1,322 @@
+"UserRoamingConfigStore"
+{
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"SurveyDate"		"2023-04-02"
+				"SurveyDateVersion"		"-2640404860309612484"
+				"StartMenuShortcutCheck"		"1"
+				"DesktopShortcutCheck"		"0"
+				"apps"
+				{
+					"1888430"
+					{
+					}
+					"945360"
+					{
+					}
+					"1172470"
+					{
+					}
+					"346110"
+					{
+					}
+					"291550"
+					{
+					}
+					"504230"
+					{
+					}
+					"730"
+					{
+					}
+					"1085660"
+					{
+					}
+					"1245620"
+					{
+					}
+					"392110"
+					{
+					}
+					"311690"
+					{
+					}
+					"1209490"
+					{
+					}
+					"298110"
+					{
+					}
+					"304390"
+					{
+					}
+					"438740"
+					{
+					}
+					"1568590"
+					{
+					}
+					"242700"
+					{
+					}
+					"6880"
+					{
+						"tags"
+						{
+							"0"		"Just cause"
+						}
+					}
+					"8190"
+					{
+						"tags"
+						{
+							"0"		"Just cause"
+						}
+					}
+					"500"
+					{
+					}
+					"550"
+					{
+					}
+					"640590"
+					{
+					}
+					"794600"
+					{
+					}
+					"319630"
+					{
+					}
+					"532210"
+					{
+					}
+					"424840"
+					{
+					}
+					"606150"
+					{
+					}
+					"1818750"
+					{
+					}
+					"238960"
+					{
+					}
+					"1646730"
+					{
+					}
+					"367450"
+					{
+					}
+					"1118310"
+					{
+					}
+					"391220"
+					{
+						"tags"
+						{
+							"0"		"tomb raider"
+						}
+					}
+					"413150"
+					{
+					}
+					"1180660"
+					{
+					}
+					"203160"
+					{
+						"tags"
+						{
+							"0"		"tomb raider"
+						}
+					}
+					"437920"
+					{
+					}
+					"431960"
+					{
+					}
+					"20900"
+					{
+					}
+					"20920"
+					{
+					}
+					"234140"
+					{
+					}
+					"40990"
+					{
+					}
+					"960990"
+					{
+						"tags"
+						{
+							"0"		"Quantic Dream"
+						}
+					}
+					"1222140"
+					{
+						"cloudenabled"		"1"
+						"tags"
+						{
+							"0"		"Quantic Dream"
+						}
+					}
+					"960910"
+					{
+						"tags"
+						{
+							"0"		"Quantic Dream"
+						}
+					}
+					"990080"
+					{
+					}
+					"397900"
+					{
+					}
+					"304240"
+					{
+						"tags"
+						{
+							"0"		"resident evil"
+						}
+					}
+					"883710"
+					{
+						"tags"
+						{
+							"0"		"resident evil"
+						}
+					}
+					"952060"
+					{
+						"tags"
+						{
+							"0"		"resident evil"
+						}
+					}
+					"254700"
+					{
+						"tags"
+						{
+							"0"		"resident evil"
+						}
+					}
+					"952070"
+					{
+					}
+					"683320"
+					{
+					}
+					"1541760"
+					{
+					}
+					"1812620"
+					{
+					}
+					"2050650"
+					{
+						"tags"
+						{
+							"0"		"resident evil"
+						}
+					}
+					"259080"
+					{
+					}
+					"21090"
+					{
+						"tags"
+						{
+							"0"		"Fear"
+						}
+					}
+					"21110"
+					{
+					}
+					"16450"
+					{
+						"tags"
+						{
+							"0"		"Fear"
+						}
+					}
+					"21100"
+					{
+						"tags"
+						{
+							"0"		"Fear"
+						}
+					}
+					"1313140"
+					{
+					}
+					"409720"
+					{
+						"tags"
+						{
+							"0"		"Bioshock"
+						}
+					}
+					"7670"
+					{
+						"tags"
+						{
+							"0"		"Bioshock"
+						}
+					}
+					"409710"
+					{
+						"tags"
+						{
+							"0"		"Bioshock"
+						}
+					}
+					"8850"
+					{
+						"tags"
+						{
+							"0"		"Bioshock"
+						}
+					}
+					"8870"
+					{
+						"tags"
+						{
+							"0"		"Bioshock"
+						}
+					}
+				}
+				"SSAVersion"		"3"
+				"SteamDefaultDialog"		"#app_games"
+				"ShowScreenshotManager"		"0"
+				"FriendsUI"
+				{
+					"FriendsUIJSON"		"{\"bNotifications_ShowIngame\":true,\"bNotifications_ShowOnline\":true,\"bNotifications_ShowMessage\":true,\"bNotifications_EventsAndAnnouncements\":true,\"bSounds_PlayIngame\":false,\"bSounds_PlayOnline\":false,\"bSounds_PlayMessage\":true,\"bSounds_EventsAndAnnouncements\":false,\"bAlwaysNewChatWindow\":false,\"bForceAlphabeticFriendSorting\":false,\"nChatFlashMode\":0,\"bRememberOpenChats\":true,\"bCompactQuickAccess\":false,\"bCompactFriendsList\":false,\"bNotifications_ShowChatRoomNotification\":true,\"bSounds_PlayChatRoomNotification\":true,\"bHideOfflineFriendsInTagGroups\":false,\"bHideCategorizedFriends\":false,\"bCategorizeInGameFriendsByGame\":true,\"nChatFontSize\":2,\"b24HourClock\":false,\"bDoNotDisturbMode\":false,\"bDisableEmbedInlining\":false,\"bSignIntoFriends\":true,\"bDisableSpellcheck\":false,\"bDisableRoomEffects\":false,\"bAnimatedAvatars\":true,\"featuresEnabled\":{\"DoNotDisturb\":1,\"LoaderWindowSynchronization\":1,\"NonFriendMessageHandling\":1,\"NewVoiceHotKeyState\":1,\"PersonaNotifications\":1,\"ServerVirtualizedMemberLists\":1,\"SteamworksChatAPI\":1,\"FriendsFilter\":1}}"
+				}
+			}
+		}
+	}
+	"Web"
+	{
+		"WebFav0_URL"		"https://www.google.com/"
+		"WebFav0_Name"		"Google"
+		"WebFav1_URL"		"http://www.youtube.com/"
+		"WebFav1_Name"		"YouTube"
+		"WebFav2_URL"		"http://www.twitter.com/"
+		"WebFav2_Name"		"Twitter"
+		"WebFav3_URL"		"http://www.facebook.com/"
+		"WebFav3_Name"		"Facebook"
+		"WebFav4_URL"		"http://www.reddit.com/"
+		"WebFav4_Name"		"Reddit"
+	}
+	"LibraryWhatsNewShowOnlyProductUpdates"		"1"
+}

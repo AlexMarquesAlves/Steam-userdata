@@ -1,0 +1,41 @@
+"424840"
+{
+	"ChangeNumber"		"-1963794160929096974"
+	"ostype"		"16"
+	"Atlas/Saved/SaveGames/-1_UserMeta.sav"
+	{
+		"root"		"1"
+		"size"		"584"
+		"localtime"		"1622610227"
+		"time"		"1622610225"
+		"remotetime"		"1622610225"
+		"sha"		"cd1fac3834c37d92a2d48402f6a924ebbd9008a0"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Atlas/Saved/SaveGames/865430389_SaveSlot1_meta.sav"
+	{
+		"root"		"1"
+		"size"		"593"
+		"localtime"		"1622610460"
+		"time"		"1622610458"
+		"remotetime"		"1622610458"
+		"sha"		"806a2df4e77bb82f23b462fbb0917a9782084315"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Atlas/Saved/SaveGames/865430389_UserMeta.sav"
+	{
+		"root"		"1"
+		"size"		"646"
+		"localtime"		"1622610445"
+		"time"		"1622610443"
+		"remotetime"		"1622610443"
+		"sha"		"201cc19df18c42caeff73b4a93c1933666c9490d"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

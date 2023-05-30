@@ -1,0 +1,41 @@
+"683320"
+{
+	"ChangeNumber"		"-4372665909176611333"
+	"ostype"		"16"
+	"nomada studio/GRIS/76561198825696117/Save01/Progress.gs"
+	{
+		"root"		"12"
+		"size"		"5848"
+		"localtime"		"1679110899"
+		"time"		"1679110899"
+		"remotetime"		"1679110899"
+		"sha"		"90da45e8f10097f56bcd7f926d822f48544c1e93"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"nomada studio/GRIS/76561198825696117/Save01/Persistent.gs"
+	{
+		"root"		"12"
+		"size"		"358"
+		"localtime"		"1679110272"
+		"time"		"1679110272"
+		"remotetime"		"1679110272"
+		"sha"		"a34076767adffbc4843c0f9df9aeb208b5806cc9"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"nomada studio/GRIS/76561198825696117/Save01/Config.gs"
+	{
+		"root"		"12"
+		"size"		"175"
+		"localtime"		"1679107618"
+		"time"		"1679107618"
+		"remotetime"		"1679107618"
+		"sha"		"488b7444da17bb2361b249adf72072998e7b14cc"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

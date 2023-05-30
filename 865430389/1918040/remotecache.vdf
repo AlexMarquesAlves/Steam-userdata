@@ -1,0 +1,41 @@
+"1918040"
+{
+	"ChangeNumber"		"-7150191560618365258"
+	"ostype"		"16"
+	"My Games/ArmyOfRuin/76561198825696117/campaign.bak"
+	{
+		"root"		"2"
+		"size"		"13696"
+		"localtime"		"1684990126"
+		"time"		"1684990126"
+		"remotetime"		"1684990126"
+		"sha"		"364b9ac4667667e82d6846e8cf0727e232db1c1e"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"My Games/ArmyOfRuin/76561198825696117/config.json"
+	{
+		"root"		"2"
+		"size"		"491"
+		"localtime"		"1684722054"
+		"time"		"1684722054"
+		"remotetime"		"1684722054"
+		"sha"		"62f31aac1e3c2824d4c2be14fb86748c39f46c42"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"My Games/ArmyOfRuin/76561198825696117/campaign.mlk"
+	{
+		"root"		"2"
+		"size"		"14079"
+		"localtime"		"1684991669"
+		"time"		"1684991669"
+		"remotetime"		"1684991669"
+		"sha"		"c587e0bc7c2f8037a0eb7a7275a5e7b40020ff18"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

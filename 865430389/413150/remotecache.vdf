@@ -1,0 +1,77 @@
+"413150"
+{
+	"ChangeNumber"		"-4927917077224530309"
+	"ostype"		"16"
+	"StardewValley/Saves/Mineral_203853699/Mineral_203853699_old"
+	{
+		"root"		"4"
+		"size"		"3796469"
+		"localtime"		"1682105870"
+		"time"		"1682105869"
+		"remotetime"		"1682105869"
+		"sha"		"54437699bb3bbea9c547a07b1feafecc4f4e17f8"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"StardewValley/Saves/Mineral_203853699/Mineral_203853699"
+	{
+		"root"		"4"
+		"size"		"3800806"
+		"localtime"		"1682106027"
+		"time"		"1682106026"
+		"remotetime"		"1682106026"
+		"sha"		"6a6bbb8a97a6c93a42d43084840aa5bbe55bd9b6"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"StardewValley/Saves/DucadoSweet_316453069/SaveGameInfo"
+	{
+		"root"		"4"
+		"size"		"0"
+		"localtime"		"0"
+		"time"		"0"
+		"remotetime"		"1656776638"
+		"sha"		"0000000000000000000000000000000000000000"
+		"syncstate"		"1"
+		"persiststate"		"2"
+		"platformstosync2"		"-1"
+	}
+	"StardewValley/Saves/DucadoSweet_316453069/DucadoSweet_316453069"
+	{
+		"root"		"4"
+		"size"		"0"
+		"localtime"		"0"
+		"time"		"0"
+		"remotetime"		"1656776638"
+		"sha"		"0000000000000000000000000000000000000000"
+		"syncstate"		"1"
+		"persiststate"		"2"
+		"platformstosync2"		"-1"
+	}
+	"StardewValley/Saves/Mineral_203853699/SaveGameInfo"
+	{
+		"root"		"4"
+		"size"		"107790"
+		"localtime"		"1682106027"
+		"time"		"1682106026"
+		"remotetime"		"1682106026"
+		"sha"		"93d37847aef3040c80d71013f9e0391f3659717f"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"StardewValley/Saves/Mineral_203853699/SaveGameInfo_old"
+	{
+		"root"		"4"
+		"size"		"109086"
+		"localtime"		"1682105870"
+		"time"		"1682105869"
+		"remotetime"		"1682105869"
+		"sha"		"e642c1ac8691e64346d1bfb83934205c55fe6c68"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

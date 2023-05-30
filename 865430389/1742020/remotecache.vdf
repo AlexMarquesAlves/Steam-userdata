@@ -1,0 +1,29 @@
+"1742020"
+{
+	"ChangeNumber"		"-7038245356803020778"
+	"ostype"		"16"
+	"BestoGameStudios/Idol Showdown/Saves/Settings.sav"
+	{
+		"root"		"12"
+		"size"		"757"
+		"localtime"		"1683428549"
+		"time"		"1683428549"
+		"remotetime"		"1683428549"
+		"sha"		"1bb9de9d6e57770025139535312e6ea6c0255d76"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"BestoGameStudios/Idol Showdown/Saves/ISSave.sav"
+	{
+		"root"		"12"
+		"size"		"130"
+		"localtime"		"1683428549"
+		"time"		"1683428549"
+		"remotetime"		"1683428549"
+		"sha"		"0a77672265d38bd92f73f78b6be68ee2a163accb"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+}
