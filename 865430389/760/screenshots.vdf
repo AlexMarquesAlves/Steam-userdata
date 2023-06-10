@@ -2142,6 +2142,24 @@
 			"hscreenshot"		"18446744073709551615"
 		}
 	}
+	"2372100"
+	{
+		"0"
+		{
+			"type"		"1"
+			"filename"		"2372100/screenshots/20230606233700_1.jpg"
+			"thumbnail"		"2372100/screenshots/thumbnails/20230606233700_1.jpg"
+			"vrfilename"		""
+			"imported"		"1"
+			"width"		"1920"
+			"height"		"1080"
+			"gameid"		"2372100"
+			"creation"		"1686105420"
+			"caption"		""
+			"Permissions"		"2"
+			"hscreenshot"		"18446744073709551615"
+		}
+	}
 	"shortcutnames"
 	{
 	}
