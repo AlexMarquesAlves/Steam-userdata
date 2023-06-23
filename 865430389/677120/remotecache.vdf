@@ -1,0 +1,53 @@
+"677120"
+{
+	"ChangeNumber"		"-5592205699379508832"
+	"ostype"		"16"
+	"saves/slot_0.1.hws"
+	{
+		"root"		"1"
+		"size"		"7405"
+		"localtime"		"1687392598"
+		"time"		"1687392598"
+		"remotetime"		"1687392598"
+		"sha"		"68e87ba306514a5e4492e2362d440207ace1d18b"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"saves/slot_0.2.hws"
+	{
+		"root"		"1"
+		"size"		"7655"
+		"localtime"		"1687392583"
+		"time"		"1687392583"
+		"remotetime"		"1687392583"
+		"sha"		"071951be8fb3d75f4e9a6e8f9e980b9c202484f1"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"saves/slot_0.3.hws"
+	{
+		"root"		"1"
+		"size"		"7403"
+		"localtime"		"1687392576"
+		"time"		"1687392576"
+		"remotetime"		"1687392576"
+		"sha"		"a83f6d3780b11e4eabf2a02c66968dc5715b279e"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"saves/slot_0.hws"
+	{
+		"root"		"1"
+		"size"		"7196"
+		"localtime"		"1687392602"
+		"time"		"1687392602"
+		"remotetime"		"1687392602"
+		"sha"		"6ce712d06b7fb50efdaca98bdd7f62eb34fb6d97"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

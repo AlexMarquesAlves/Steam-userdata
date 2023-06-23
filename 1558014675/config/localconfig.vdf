@@ -1,0 +1,120 @@
+"UserLocalConfigStore"
+{
+	"Broadcast"
+	{
+		"Permissions"		"1"
+	}
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"apps"
+				{
+					"7"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"760"
+					{
+						"cloud"
+						{
+							"quota_bytes"		"20000000000"
+							"quota_files"		"50000"
+							"used_bytes"		"0"
+							"used_files"		"0"
+						}
+					}
+					"2371090"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+				}
+				"LastPlayedTimesSyncTime"		"10"
+				"SmallMode"		"0"
+			}
+		}
+	}
+	"streaming_v2"
+	{
+		"EnableStreaming"		"1"
+		"DefaultAudioDevice"		"{0.0.0.00000000}.{65e78fb5-2e8b-4721-898b-9183fe43da3a}"
+		"DefaultAudioDeviceName"		"FxSound Speakers (FxSound Audio Enhancer)"
+		"DefaultMicrophone"		"{0.0.1.00000000}.{a19808f0-a649-452c-bbe6-b4b0ed4754ff}"
+		"DefaultMicrophoneName"		"Microfone (2- USB Audio Device)"
+	}
+	"friends"
+	{
+		"1558014675"
+		{
+			"NameHistory"
+			{
+				"0"		"devduque"
+			}
+			"name"		"devduque"
+		}
+		"PersonaName"		"devduque"
+		"communitypreferences"		"18002000280130013800"
+		"contentdescriptorpreferences"		"0a0208010a0208030a020804"
+	}
+	"apptickets"
+	{
+		"7"		"3200000004000000d36add5c01001001070000009457a62d01b019ac0000000048e19164c890ad6401000000000000000000a0841c33d1e2693690121a5d93e9ee25c07de70d6887d1edca11e0a03c3474b966f62faca2fddd270b30d412eb1d7969197d5f30989da68cf6b658789eeed6d7fb888fb9e2fe2797466f90f94c06e4f20bf9af57593f93daf0a70352cba1e64d3a9831b33e7fad204c46e736a3d31c9ea867f387b5856c2246306dfe6345bd33"
+		"228980"		"3200000004000000d36add5c01001001747e03006632c78a0200020a0000000079de9164f98dad640100000000000000000046aae279f77df8a03d382a9dd5761cb983e534c75d8a54995882d99051dd8f898889cd5e9ab3be855266ea331dcfd29d008ec0c123dec4a8fb75bf53590f69598caaa663954ab9c317e15c4249b15d570047aeda0ddfadb6de351140f55602c3c1a0711e46bb0547e144611a81f0c085796ffc739273c46595e4a6de7c616f51"
+	}
+	"Offline"
+	{
+		"Ticket"		"08d3d5f5e6051548e19164"
+		"Signature"		"99b93b2675abccf6432ab9def403fb1538833179d0580d95862e92f0ff7848b44584f8303b8d7586336174140a3228847df5b98b3b970400e6f4864f099929cb1a93d6037865fcd005e87b426d1176c47111cd8304ff192d4bfaa76b0e6d56db862a7a9e907e1f97a589647f11e4285089175bfac0f42b6cb0e377aca3ef8b7132476165026c6ece9a8b2819abfb46bb7ffc6fd5ebe35981e56af35dedb8b415ded15fc24db98a1387159725813bffafb40b3631e18a62ea4c5f77cc2d41815938dfa54b68505421088bc1f1f47a527336b872dc235258a8353172792865d9cdf937b4834d5cba62c91943df7604caeb814e6b0d3b0628340a544b58b41c5f52"
+		"EncryptedTicket"		"0a203da92b82a7db811dd2802d3cc90e1373a96d91bb80cb317417df34dfc730f61912800299b93b2675abccf6432ab9def403fb1538833179d0580d95862e92f0ff7848b44584f8303b8d7586336174140a3228847df5b98b3b970400e6f4864f099929cb1a93d6037865fcd005e87b426d1176c47111cd8304ff192d4bfaa76b0e6d56db862a7a9e907e1f97a589647f11e4285089175bfac0f42b6cb0e377aca3ef8b7132476165026c6ece9a8b2819abfb46bb7ffc6fd5ebe35981e56af35dedb8b415ded15fc24db98a1387159725813bffafb40b3631e18a62ea4c5f77cc2d41815938dfa54b68505421088bc1f1f47a527336b872dc235258a8353172792865d9cdf937b4834d5cba62c91943df7604caeb814e6b0d3b0628340a544b58b41c5f521806220824440dee50c9214628043208548e604488b42d23"
+		"EncryptedSignature"		"99b93b2675abccf6432ab9def403fb1538833179d0580d95862e92f0ff7848b44584f8303b8d7586336174140a3228847df5b98b3b970400e6f4864f099929cb1a93d6037865fcd005e87b426d1176c47111cd8304ff192d4bfaa76b0e6d56db862a7a9e907e1f97a589647f11e4285089175bfac0f42b6cb0e377aca3ef8b7132476165026c6ece9a8b2819abfb46bb7ffc6fd5ebe35981e56af35dedb8b415ded15fc24db98a1387159725813bffafb40b3631e18a62ea4c5f77cc2d41815938dfa54b68505421088bc1f1f47a527336b872dc235258a8353172792865d9cdf937b4834d5cba62c91943df7604caeb814e6b0d3b0628340a544b58b41c5f52"
+	}
+	"ParentalSettings"
+	{
+		"settings"		"09d36add5c000000004800"
+		"Signature"		"252747a0d27c20efbfa0dc47eed63856df09ce1e3a818b304706359ede50474a2e07cadd6f41da830b6f21607ef4bf9e5cfed5b08f26feb350938eaab1694a06d369482b598dcc93d29077d93d35cda1271da35ec74d58f7330c68064726bbd4cde51939e6305c9ce175c6a1e3bacefa8956cb825cd6bec7f876f29969884d802a6a03397d5af6bc1a1a3a032a4e50c2f5e37431e7631ef08e446cb749264b0f4a74bca5de21c8dce75ccccb873d659d1dfb6d396c44ec6708d01b7e064e76d0ed0163ae64202bc639164231e41afbee20f93955d0e512f4f5cf153cc2f640ac7201cd679b5f10563f0663564007c0e9d97d7947afa8408f3b7e93e6358fad3c"
+	}
+	"SharedAuth"
+	{
+		"id"		"905782944"
+		"AuthData"		"08707223bef1cb247dfaaa23f7b750336abd3b33108101cfd96a61c8f48f332f"
+	}
+	"CloudManager"
+	{
+		"HintAppsToPreload"		""
+	}
+	"WebStorage"
+	{
+		"CachedCommunityPreferences"		"{\"bParenthesizeNicknames\":false,\"eTextFilterSetting\":1,\"bTextFilterIgnoreFriends\":true,\"content_descriptor_preferences\":{\"content_descriptors_to_exclude\":[{\"content_descriptorid\":1},{\"content_descriptorid\":3},{\"content_descriptorid\":4}]}}"
+		"CachedStorePreferences"		"{\"eReviewScorePreference\":0,\"content_descriptor_preferences\":{\"content_descriptors_to_exclude\":[{\"content_descriptorid\":3,\"timestamp_added\":1687281406},{\"content_descriptorid\":4,\"timestamp_added\":1687281406}]},\"provide_deck_feedback\":0}"
+		"UIStoreLocalSteamUIState"		"{\"nVersion\":1,\"eGameListView\":1,\"bGroupedByCollection\":true,\"bSortedByRecent\":false,\"mapCollapsedState\":[],\"currentSelection\":{},\"bGroupBySharedLibraries\":false,\"collectionFilter\":{\"nFormatVersion\":2,\"strSearchText\":\"\",\"filterGroups\":[{\"rgOptions\":[1,2],\"bAcceptUnion\":true},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false}],\"setSuggestions\":[]},\"collectionFilterGamepad\":{\"nFormatVersion\":2,\"strSearchText\":\"\",\"filterGroups\":[{\"rgOptions\":[1,2,8192],\"bAcceptUnion\":true},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false}],\"setSuggestions\":[]}}"
+		"keyboard_haptic_preset"		"2"
+		"keyboard_haptic_custom"		"{\"eHapticType\":2,\"unIntensity\":4,\"ndBGain\":-5}"
+		"keyboard_trackpad_typing_scale"		"1"
+		"keyboard_trackpding_typing_trigger_as_click"		"true"
+		"keyboard_layout"		"{\"currentLayout\":0,\"selectedLayouts\":[16]}"
+		"keyboard_initial_location_desktop"		"\"center-bottom\""
+		"keyboard_initial_location_overlay"		"\"center-bottom\""
+		"SteamVoiceSettings_1558014675"		"{\"inputGain\":1,\"outputGain\":1,\"noiseGateLevel\":2,\"noiseCancellation\":true,\"echoCancellation\":true,\"autoGainControl\":true,\"selectedMic\":\"default\",\"selectedOutput\":\"default\",\"pttSoundsEnabled\":true,\"hasResetOpenMicHotKey\":true}"
+		"user-collections"		"{}"
+		"trendingstore_storage"		"{\"version\":2,\"data\":[],\"lastFetchTimeMS\":1687281274527}"
+		"CTextFilterStore_TextFilterPreferences"		"{\"eTextFilterSetting\":1,\"bIgnoreFriends\":true}"
+		"CTextFilterStore_TextFilterWords"		"{\"text_filter_custom_banned_words\":[],\"text_filter_custom_clean_words\":[]}"
+		"CTextFilterStore_strBannedPattern"		"\"\\\\b(foderíamos|fodêssemos|foderíeis|fodêramos|fodêsseis|merdimbuca|putariinha|chibundas|chibundos|cácété|foderemos|fodêreis|fodíamos|fudeção|putariona|boasudas|boazudas|cassetas|chibunda|chibundo|culhões|cunhões|foderdes|fodereis|foderiam|foderias|fodermos|foderás|foderão|fodessem|fodesses|fodestes|fodíeis|fudecão|fudeçao|fudidas?|fudidos?|peithola|putarias|xibundas|xibundos|babacas|boasuda|boazuda|cacetas|cacetes|casseta|cassete|culhoes|culhão|cunhoes|cunhão|curalho|fodamos|fodasse|fode te|fodemos|fodendo|foderam|foderas|foderei|foderem|foderes|foderia|foderum|foderá|fodesse|fodeste|fodinha|fudecao|fudedor|fudendo|furonas|putaria|putães|putãos|putões|xibunda|xibundo|babaca|bostas|caceta|cacete|culhao|cunhao|fodais|fodeis|fodera|fodete|fodiam|fodias|fodão|furona|furão|merdas|putão|sefoda|bosta|fodam|fodao|fodas|fodei|fodem|foder|fodes|fodeu|fodia|fuder|fudeu|furao|merda|porra|putos|foda|fode|fodi|fodo|puto|cus|cu|(ape|bat|bull?|butt|dip|dog|dumb|ebo|holy|horse|jack|pedo|pig|ubi)\\\\W*sh(it|ti)s?|d[il]+(ck|kc)\\\\W*(ass|bag|breath|eat|face|flip|head|hole|less|suck|weed)\\\\w*|f[chj]?(a|au|aw|e|o+|u|uy)[ch]*k(e?d|e?rs?|[ei]?n+g?|t)|m[aou](d+|t+|th|ht|z)(a|e|er|ir|ur)(c|f)c?[aou]c?k\\\\w*|m[ou]th(a|er)(f|ph)[vue]+c?[gkqx]+(e?d|e?r|[ei]?n+g?)|\\\\w*f[vu]+h*c+[hjvk]*(e?d|e?r|[ei]?n+g?|t)|b+i+a*t+c+h+(e+d|e*r?[sz]+|[ei]?n+g?|y)|\\\\w*f[vu]+c?[xkq]+(e?d|e?r|[ei]?n+g?|t)|p(oo+|u+)s+(a+y+|e+|eh|ey|i+|ie|y+)s*|m[ou]th(a|er)(f|ph)[vue]+c?[gkqx]+|\\\\w*f[vu]+h*q(e?d|e?r|[ei]?n+g?|t)|f[chj]?(a|au|aw|e|o+|u|uy)[ch]*k|f[ck]+(e?d|e?r|[ei]?n+g?|t)|fu󠀡󠀡cki󠀡󠀡ng|dumb(f|ph)[vu]+c?[xkq]|c(oc?|aw)k\\\\W*suc?k\\\\w*|d[il]+(ck|kc)(ed|ing)|ph[vu]+h*c+[hjvk]*\\\\w*|son\\\\W*of\\\\W*a\\\\W*bitch|долбоебизм|\\\\w*who+re(ed|ing|s)|c(o|ah|aw)c?k(s|ed)|s+h+[ily]+t+[ersy]*|a+ss+\\\\W*w?hole?\\\\w*|ph[vu]+c?[xkq]+\\\\w*|говноедов|долбаебов|ебланская|ебланский|заебёшься|захуячили|пидарасов|пидарский|съебаться|уебанский|уебищьное|f[vu]+c?[xkq]+\\\\w*|bull+sh+[ily]+t+|god\\\\W*damn?\\\\W*it|ахуенная|ахуенную|ахуенный|выебаное|ебанному|ебанутые|ебланами|пидарасы|уёбищная|уёбищный|god\\\\W*damn?\\\\w*|въебали|въебать|ебанная|ебанное|ебанных|ебаного|ебаньки|ебонное|заебала|заебало|поебень|хуёвого|a+ss+\\\\W*fu\\\\w*|c(o|ah|aw)c?k|d[il]+(ck|kc)|b+i+a*t+c+h+|butt\\\\W*fu\\\\w*|cumm(er|ing)|f[vu]+h*c\\\\w*|f[vu]+h*q\\\\w*|sh+i+[ae]+t+|ахуели|ебаная|ебаное|ебаной|ебаную|ебаные|ебаный|ебаным|ебаных|ебучий|пиздеж|пиздец|сраная|уёбища|уёбище|хуесос|хуетой|хуйнёй|хуёвая|хуёвый|你妈死了|妈的个逼|我是傻逼|c+u+n+t+\\\\w*|d+i+c+k+s*|fu‎cking|блядь|блять|дохуя|дрочи|ебало|ебать|н4еб4л|нахуй|нахуя|нехуй|нихуя|пизде|пизду|похуй|уебёт|хуета|хуету|хуйни|хуйню|хуйня|шлюхи|ёбаны|a+sholes?|sh+e+i+t+|操你妈|操你妹|肏你妈|ахуе|ебал|ебут|сука|хуям|шлюх|F\\\\.U\\\\.C\\\\.K|chodes?|cumshot|fucking|fu‎ck|shit\\\\w*|shtpost|who+re?|cumbag|jebane|twats?|бля|ебу|хуи|хуй|хуя|傻屄|傻逼|操死|臭逼|cums?|dafuq|diсk|sh it|coq+|hore|kock|nmsl|shat|dik|fck|\\\\w*f+u+c+k+\\\\w*|\\\\w*fцск\\\\w*|\\\\w*shіtty\\\\w*|\\\\w*f_uc_k\\\\w*|\\\\w*pussy\\\\w*|prostitutas|chupeteiro|prostituta|putinhinha|carcamano|escarumba|putaninha|putinhona|putoninha|veadinhos|viadinhos|xupa rola|baitolas|bicholha|bixinhas|chupador|meretriz|poutinha|putanona|putinhas|putonona|sapatona|vapatão|veadinho|viadinho|viadões|baitola|bichoca|bichona|bixinha|chinoca|criolos|gaydacu|poutona|putanas|putinha|putonas|rameira|sapatas|viadoes|viadão|bichas|boiola|criolo|poutas|putana|putona|sapata|veadao|viadao|bibas|bicha|bixas|pouta|putas|vadia|biba|bixa|puta|n+([ehiy]+|ay|ey|io|[il]+)[bgq$]+h?(a+|aer|a+h+|a+r+|e+|ea|eoa|e+r+|ie|ier|let|lit|o|or|r+|u|uh|uhr|u+r+|ward|y+)s*|f[ae]y?g+[oeiu]+t+s?|даунская|пидорасы|ching\\\\W*chongs?|n󠀡󠀡iggers|re+t+a?r[dt]+s?|towel\\\\W*heads?|москаль|пидорка|pac?k(i|ie|y)|ting\\\\W*tongs?|trann(ie|y)s?|white\\\\W*trash|ni:gg\\\\w*:\\\\w*|chin(c|k)s?|n+i+[gq]+s?|yam\\\\W*yams?|\\\\w*niggas?|chinamans?|polacke?s?|кацап|русня|хохлы|хохол|neekeris?|nigfhers?|redskins?|beaners?|coolies?|czarnuch|f+a+g+s*|fenians?|gringos?|newfags?|ni gg er|nigga\\\\w*|niggles?|nignogs?|rus+kis?|wiggers?|Ϝaggоt|gypsies|injuns?|jiggas?|nikkas?|wiggas?|иigger|\\\\w*fag|beaner|coons?|dykes?|fa66ot|fagts?|gooks?|gypos?|homos?|kikes?|kokhol|moskal|reggin|spics?|黑鬼|abos?|fgts?|fаgs|gypsy|japs?|troon|wops?|fagz|fаg|f@g|\\\\w*N󠀡󠀡IGGE󠀡󠀡R\\\\w*|\\\\w*свинособак\\\\w*|\\\\w*ɴɪɢɢᴇʀ\\\\w*|\\\\w*nіggеr\\\\w*|\\\\w*NÍGGER\\\\w*|\\\\w*n\\\\\\\\\\\\|gger\\\\w*|\\\\w*niggеr\\\\w*|\\\\w*F4GG0T\\\\w*|\\\\w*N1GG3R\\\\w*|\\\\w*nigger\\\\w*|\\\\w*nigg4\\\\w*|\\\\w*niggz\\\\w*)\\\\b\""
+		"CTextFilterStore_strCleanPattern"		"\"^(\\\\b(kompetenzteam|派送员|pinegrove|n\\\\.e\\\\.ig\\\\.e\\\\.|fukushima|snigger|nie gee|fukuoka|fuchian|cock\\\\.li|fuxius|fucuro|niego|niebo|neige|neggy|nebby|fuxis|cwfag|pubg|niby|nebu|nebo|fuku|fuki|fakt|g24|\\\\w*fvchvo\\\\w*fak(ed|ers?|ing)|kompetenzteam|派送员|pinegrove|n\\\\.e\\\\.ig\\\\.e\\\\.|fukushima|snigger|nie gee|fukuoka|fuchsia|fuchian|cock\\\\.li|fuxius|fucuro|niego|niebo|neige|neggy|nebby|fuxis|cwfag|pubg|niby|nebu|nebo|fuku|fuki|fakt|g24|\\\\w*fvchvo\\\\w*)\\\\b)$\""
+		"ChatStorePopupState_1558014675"		"{\"bFriendsListVisible\":false,\"always_restore\":false,\"bFriendsListCollapsed\":false}"
+	}
+	"system"
+	{
+		"PushToTalkKey"		"0"
+	}
+	"AppInfoChangeNumber"		"19240205"
+	"StartupState.Friends"		"0"
+}
