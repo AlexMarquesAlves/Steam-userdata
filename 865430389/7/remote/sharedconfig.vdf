@@ -8,7 +8,7 @@
 			{
 				"SurveyDate"		"2023-04-02"
 				"SurveyDateVersion"		"-2640404860309612484"
-				"StartMenuShortcutCheck"		"1"
+				"StartMenuShortcutCheck"		"0"
 				"DesktopShortcutCheck"		"0"
 				"apps"
 				{
@@ -125,6 +125,10 @@
 					}
 					"413150"
 					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
 					}
 					"1180660"
 					{
@@ -258,6 +262,10 @@
 					}
 					"1313140"
 					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
 					}
 					"409720"
 					{
@@ -292,6 +300,13 @@
 						"tags"
 						{
 							"0"		"Bioshock"
+						}
+					}
+					"1794680"
+					{
+						"tags"
+						{
+							"0"		"favorite"
 						}
 					}
 				}
