@@ -1,6 +1,6 @@
 "1457080"
 {
-	"ChangeNumber"		"-6641734177186130658"
+	"ChangeNumber"		"-6432787233467319198"
 	"ostype"		"16"
 	"DigitalSun/The Mageseeker/settings.data"
 	{
@@ -8,9 +8,9 @@
 		"size"		"930"
 		"localtime"		"1687566314"
 		"time"		"1687566313"
-		"remotetime"		"1687537223"
+		"remotetime"		"1687566313"
 		"sha"		"db265fa6e8d58f1c770a1ddc5f1e095adb2a2f91"
-		"syncstate"		"3"
+		"syncstate"		"1"
 		"persiststate"		"0"
 		"platformstosync2"		"1"
 	}
@@ -20,9 +20,9 @@
 		"size"		"146879"
 		"localtime"		"1687567492"
 		"time"		"1687567491"
-		"remotetime"		"1687537189"
+		"remotetime"		"1687567491"
 		"sha"		"2bf4db5f5e66105fcc014a7d967e61cfb5311568"
-		"syncstate"		"3"
+		"syncstate"		"1"
 		"persiststate"		"0"
 		"platformstosync2"		"1"
 	}
