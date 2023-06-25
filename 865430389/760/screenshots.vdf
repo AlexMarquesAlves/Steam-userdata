@@ -2165,6 +2165,21 @@
 		"0"
 		{
 			"type"		"1"
+			"filename"		"599140/screenshots/20230624221515_1.jpg"
+			"thumbnail"		"599140/screenshots/thumbnails/20230624221515_1.jpg"
+			"vrfilename"		""
+			"imported"		"1"
+			"width"		"1920"
+			"height"		"1080"
+			"gameid"		"599140"
+			"creation"		"1687655715"
+			"caption"		""
+			"Permissions"		"2"
+			"hscreenshot"		"18446744073709551615"
+		}
+		"1"
+		{
+			"type"		"1"
 			"filename"		"599140/screenshots/20230624220209_1.jpg"
 			"thumbnail"		"599140/screenshots/thumbnails/20230624220209_1.jpg"
 			"vrfilename"		""
@@ -2177,7 +2192,7 @@
 			"Permissions"		"2"
 			"hscreenshot"		"18446744073709551615"
 		}
-		"1"
+		"2"
 		{
 			"type"		"1"
 			"filename"		"599140/screenshots/20230624215935_1.jpg"
