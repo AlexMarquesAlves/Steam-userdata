@@ -1,6 +1,6 @@
 "599140"
 {
-	"ChangeNumber"		"-9191862413696860466"
+	"ChangeNumber"		"-4412764192727114564"
 	"ostype"		"16"
 	"Lazy Bear Games/Graveyard Keeper/1.info"
 	{
@@ -8,9 +8,9 @@
 		"size"		"124"
 		"localtime"		"1687657645"
 		"time"		"1687657643"
-		"remotetime"		"1687656291"
+		"remotetime"		"1687657643"
 		"sha"		"e9607ad1e133d51eb62d156878b9808309607f27"
-		"syncstate"		"3"
+		"syncstate"		"1"
 		"persiststate"		"0"
 		"platformstosync2"		"1"
 	}
@@ -20,9 +20,9 @@
 		"size"		"3044097"
 		"localtime"		"1687657646"
 		"time"		"1687657644"
-		"remotetime"		"1687656293"
+		"remotetime"		"1687657644"
 		"sha"		"2ea03c39fa5ab50a5db91fb6f2bbd28bfa5653fe"
-		"syncstate"		"3"
+		"syncstate"		"1"
 		"persiststate"		"0"
 		"platformstosync2"		"1"
 	}
